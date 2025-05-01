@@ -78,7 +78,7 @@
         },
         "resources/config/window.xml": {
             "overwrite": false,
-            "hash": "0df1d39be26006ead8378e42bd15bc50d52bbc5332d1d966f8e1a9a75d079347"
+            "hash": "f934cea99e7f20003383ce0b1b3bf0f91d409a18d5c195321644c8e53a09dfcd"
         },
         "resources/data/LICENSE": "b53e45fa09646e762ce929b756b323291551316bb06dff2b67f3bf88b9ef0691",
         "resources/data/README.md": "08360f69843461d7c737aac9c92cc7c79c4028cad0a030fc271c4164894c5d84",
