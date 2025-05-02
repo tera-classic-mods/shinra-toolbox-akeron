@@ -1,15 +1,20 @@
 1	The World
+2	World Outskirts
 101	Arun
 102	Southern Shara
 103	Northern Shara
 104	Northern Arun
-111	Western Battlefield (Old)
-112	Defiance Run
+105	Exodor Archipelago
+110	Gridiron
+111	Iron Battleground
+112	Fraywind Canyon
 113	Champions' Skyring (Old)
 114	Acradan Base (Old)
 115	Champions' Skyring
 116	Corsairs' Stronghold
 117	Kumasylum
+118	Kumas Royale
+152	Civil Unrest: Velika
 200	Island of Dawn
 201	Velika
 202	Island of Dawn
@@ -36,11 +41,28 @@
 223	Helkan District
 224	TBD
 225	TBD
+226	Val Oriyn
+227	Stepstone Isle
 260	Battleground
 261	Alliance
 291	Western Battlefield
 500	Melricas Passage
+505	Ruined Velika Banquet
+506	Velika Banquet
+507	Dragon's Landing
+508	Soulscape
+510	The Nightmare Begins Satellite Quest
+612	Exodor Investigation Team
+613	Anti-Amber Operations
+614	Valkyon Public Service
+615	Exodor Justicar
+616	Free Exodor
+620	Songbird Event
+622	Songbird Event
+628	Songbird Event
+833	Wyrmgorge
 1001	Ruinweald
+1023	Skill/Event Hunting Zone
 2001	Fey Forest
 2002	Woodcutter Palisade
 2003	Faerie Pond
@@ -67,6 +89,19 @@
 3008	Grave of the Risen Knight
 3009	Cave of Bleak Echoes
 3010	Bestial Vale
+3011	Vanguard Outpost 
+3017	Antaroth's Abyss (7-person)
+3018	Dark Reach Citadel (7-person)
+3019	Grotto of Lost Souls (7-person)
+3020	Sea of Honor
+3023	Akalath Quarantine
+3024	Azart Hatchery
+3025	Azart Hatchery
+3026	Corrupted Skynest
+3027	Forbidden Arena
+3101	Gossamer Vault
+3126	Corrupted Skynest (Hard)
+3201	Gossamer Vault (Hard)
 4001	Fyrmount
 4002	Brimstone Highlands
 4003	Blazing Vale
@@ -79,6 +114,8 @@
 4010	Delthin Mine
 4011	Tansin Mine
 4012	Akasha's Hideout Entrance
+4013	Edge of the Mountain
+4014	Bahaar's Sanctum Entrance
 5001	Tuwangi Mire
 5002	Tuwangi Garrison
 5003	Babok Hollow
@@ -88,6 +125,7 @@
 5008	Moss Glen
 5009	Burning Frog Altar
 5010	Sacred Spawning Pond
+5011	Tuwangi Training Camp
 6001	Valley of Titans
 6002	Invasion-free Zone
 6003	Mags Strix
@@ -102,6 +140,11 @@
 6012	Echo Ranch
 6013	Vindicator Camp
 6017	Crescentia Gate
+6464	Nearby Town
+6465	Travel to Skycastle
+6466	Skycastle
+6467	Upper Plaza of Velika
+6468	Symposium of Elders in Allemantheia
 7001	Celestial Hills
 7002	Omphalos Plains
 7003	Muricai Ruins
@@ -112,6 +155,7 @@
 7008	Orcan Bivouac
 7009	Consecrated Stone
 7010	Crossroads of Pythia
+7777	Guardian Legion Mission Zone
 8001	Hungry Caverns
 8002	Hungry Caverns Vaults
 8003	Hungry Caverns Catacombs
@@ -125,7 +169,7 @@
 8011	Hungry Caverns Entrance
 8012	Vanguard Post Alpha
 8013	Vanguard Post Beta
-8014	Labyrinth Entrance
+8014	Golden Labyrinth Entrance
 8888	TERA Battleground
 9001	Ascension Valley
 9002	Azarel's Labyrinth
@@ -139,7 +183,58 @@
 9011	Relic Hunter Outpost
 9012	Vexatus Swamp
 9013	Saravash's Ascent Entrance
+9034	Dreadspire
+9044	Bahaar's Sanctum
+9054	Bathysmal Rise Entrance
+9056	Timescape (Hard)
+9057	Akeron's Inferno (Hard)
+9059	Forsaken Island
+9060	Kalivan's Dreadnaught (Hard)
+9066	Demon's Wheel
+9067	Demokron Factory (Hard)
+9068	Shadow Sanguinary (Hard)
+9069	Castle Aranea
+9070	Manglemire
+9503	Valkyon Federation Commander Residence
+9505	Ruined Velika Banquet
+9506	Velika Banquet
+9507	The Veil
+9508	Soulscape
+9509	Velika Banquet Redux
+9618	Super Quiz Bowl
+9681	Velik's Dream
+9710	Broken Prison
+9720	Antaroth's Abyss
+9735	RK-9 Kennel
+9739	Red Refuge
+9756	Timescape
+9759	Forsaken Island (Hard)
+9760	Kalivan's Dreadnaught
+9767	Demokron Factory
+9768	Shadow Sanguinary
+9769	Lilith's Keep
+9770	Ruinous Manor
+9780	Velik's Hold
+9781	Velik's Sanctuary
+9782	Grotto of Lost Souls
+9783	Dark Reach Citadel
+9794	Thaumetal Refinery
+9795	Crucible of Fame
 9810	Entrance to Lakan's Prison
+9833	Wyrmgorge
+9860	Kalivan's Challenge
+9917	Sky Cruiser Deck
+9920	Antaroth's Abyss (Hard)
+9935	RK-9 Kennel (Hard)
+9939	Red Refuge (Hard)
+9950	Harrowhold
+9969	Lilith's Keep (Hard)
+9970	Ruinous Manor (Hard)
+9980	Velik's Hold (Hard)
+9981	Velik's Sanctuary (Hard)
+9982	Grotto of Lost Souls (Hard)
+9983	Dark Reach Citadel (Hard)
+9994	Thaumetal Refinery (Hard)
 9999	TERA Instanced Space
 10001	Serpentis Isle
 10002	Boan Strand
@@ -157,6 +252,8 @@
 10014	Dolme's Horn Workshop
 10015	East Beach Tavern
 10016	Beach Party
+10017	Nakatam Tower
+10018	Gruber's Hideout
 11001	Jagged Coast
 11002	Jungle Road
 11003	Jungle Patrol Camp
@@ -174,6 +271,7 @@
 11015	Briny Outpost
 11016	The Hold
 11017	Repositorium
+11018	Open Fishing Area
 12001	Mistmoor Island
 12002	Cutthroat Beach
 12003	Rain Cages
@@ -215,6 +313,11 @@
 13028	Arun Heights
 13029	Tainted Gorge Maw
 13030	Timeless Woods
+13031	North Dock
+13032	Dulari's Camp
+13033	Southern Checkpoint
+13034	Tainted Gorge Outpost
+13035	Ruined Temple
 14001	Newbaria
 15001	Cliffs of Insanity
 15002	Land of Fury
@@ -225,6 +328,12 @@
 15007	Camp Retribution
 15008	Dementalith
 15009	Camp Redemption
+15201	Dock
+15202	North Gate
+15203	West Gate
+15204	Ruins
+15205	Gidd Mountain
+15206	Ranch
 16001	Vale of the Fang
 16002	Twisted Plains
 16003	Forsaken Fields
@@ -269,6 +378,31 @@
 19020	Fairground—Frying Pan and Stove
 19021	Fairground—Fire Pit
 19022	Fairground—Salad Table
+19023	Bamarama Grounds
+19101	Arx Umbra
+19102	Inferus Approach
+19103	Domare Outpost
+19104	Frostvale
+19105	The Breach
+19106	Parthian Outpost Alpha
+19107	Parthian Outpost Beta
+19108	Delvias Front
+19109	Trellum Consurgo
+19110	Mingor Cliffs
+19111	Mingor Cliffs
+19112	Tempest Outpost
+19113	Infernal Span
+19114	Delvias Front Teleport Platform
+19115	Overlook Teleport Platform
+19116	Eastern Teleport Platform
+19117	Western Teleport Platform
+19118	Northern Teleport Platform
+19119	Trellum Consurgo
+19120	Airship Platform
+19121	Fortress's Core
+19122	Parthian Outpost
+19123	Inner Ward
+19124	Southern Gate
 20001	Tenebrous Mines
 20002	Halls of Gloom
 20003	Halls of Shadow
@@ -332,7 +466,7 @@
 24012	Crusader Camp
 24013	Cathedral Redoubt
 24014	Underground river
-25001	Dark Cathedral
+25001	Cathedral Passageway
 25002	Dark Cathedral
 25003	Transepts
 25004	Vindicator Redoubt
@@ -360,6 +494,11 @@
 27006	Castra Mysterium
 27007	Liberation Station
 27008	Haven Farm
+27009	Camp Alpha
+27010	Camp Beta
+27011	Camp Gamma
+27012	Camp Delta
+27016	Butterfly Trap
 28001	Blightwood
 28002	Shakan's Revenge
 28003	Herath Trail
@@ -393,6 +532,7 @@
 30019	Balder's Temple Entrance
 30020	Lighthouse of the Sun Entrance
 30021	Tree of Wisdom
+30022	Teleportal Installation Site
 31000	Lakan's Prison
 31001	Tempest Reach
 31002	Frost Wastes
@@ -404,6 +544,7 @@
 31008	Glacial Bay Research Station
 31009	Beacon Point Garrison
 31010	Batia's Hulk
+31011	Risalke Prison
 32001	Mount Tyrannas
 32002	Daunting Pass
 32003	Winterwolves Encampment
@@ -469,6 +610,7 @@
 37010	Incursion Zone
 37011	Doomcrypt
 38001	Sienna Canyon
+38002	Forbidden Arena Entrance
 38004	Feldrin Ravine
 38005	Field of Fire
 38006	Thunder Hold
@@ -477,14 +619,15 @@
 38009	Wyvern Watch
 38010	Desolate Rise
 38011	Barbtail Coulee
+38012	Isolation Camp
 39001	Arachnaea
 39002	Arachnaea Main
 39003	The Lair
 39004	Roughneck Outpost
-39005	Wary Vigil
+39005	Retribution Point
 39006	The Hatchery
 39007	Sanctuary
-39008	Wary Vigil
+39008	Retribution Point
 39009	Altar of Resurrection
 39010	Retribution Point
 39011	Cocoon Tombs
@@ -624,7 +767,7 @@
 52009	Ventral Command Center
 52010	Bridge of Grief
 52011	Remote Lodge
-52012	Entrance to Legendary Blacksmith's Workshop
+52012	Entrance to Muhrak's Workshop
 53001	Labyrinth of Terror
 53002	Shriekaal Hall
 53003	Tragieron Hall
@@ -688,6 +831,7 @@
 61009	Defiance Street
 62001	Cutthroat Harbor
 62002	Cutthroat Harbor Pegasus Platform
+62003	Sentry Command
 63001	Velika
 63002	Velika Travel Control Office
 63003	Creation Workshop
@@ -707,6 +851,10 @@
 63017	Velika Consul Office
 63023	Velika Outskirts
 63024	Ring Plaza
+63025	City Teleportal
+63026	Airship Platform
+63027	Entrance to the Super Quiz Bowl
+63028	Super Quiz Bowl
 64001	Tower Base
 64002	Explorer Command Post
 64003	Leander's Outpost
@@ -733,6 +881,7 @@
 70102	Beach Party (Dragonturtle Beach)
 70103	Rootstock (Fairground)
 70104	Pond Faire (Tuwangi Garrison)
+70105	Кровавый банкет (Древо Мудрости)
 71001	Bastion
 71002	Bastion Pegasus Platform
 72001	Allemantheia
@@ -766,6 +915,7 @@
 76001	Kanstria
 76002	{@Rgn:76001} Flight Platform
 76090	Kanstria Winged Stone
+76901	Entrance to Lilith's Keep and Ruinous Manor
 77001	Pathfinder Post
 77002	Pathfinder Post Flight Platform
 78001	Zulfikar Fortress
@@ -830,6 +980,7 @@
 90012	59–60
 90013	59–60
 90014	59–60
+90015	60-65
 99000	1–11
 99001	10–15
 99002	13–20
@@ -874,8 +1025,12 @@
 99041	59–60
 99042	59–60
 99043	59–60
+99044	60-61
+99045	61-62
+99046	62-63
+99047	63-65
 99999	Undiscovered
-102001	Wintera Battlefield
+102001	Wintera Snowfield
 111001	Western Battlefield
 111002	Blue Wing Fortress
 111003	Red Ensign Fortress
@@ -914,12 +1069,231 @@
 117003	Playground
 117004	Loading Dock
 117005	Sanctum of Restoration
+118001	Gridiron
+118002	Shore Hold
+119001	Coliseum
+152001	Anansha's Nest
+152002	Frygaras' Nest
+152003	Sabranak's Nest
+172001	Savage Reach
+172011	Eerie Rise
+172012	Boscan Terrace
+172013	Mjusu Kraal
+172014	Pools of Zurusuru
+172015	Yaldaru Hills
+172016	Jungle Pool
+172017	Khirian Outpost
+172019	Mendara Cavern
+172020	Oracle Cave
+172021	Pools of Zurusuru
+172022	Placid Tarn
+172023	Yaldaru Hills
+172024	Uchawi Hollow
+172100	Velika
+172101	Savage Reach
+172111	Khirian Sanctuary
+172112	Yaldaru Hills Teleport Platform
+172113	Mjusu Kraal Teleport Platform
+172114	Khirian Sanctuary Teleport Platform
+172115	Khirian Outpost Teleport Platform
+181001	Ex Prima
+181002	Havenstone Ruins
+181003	Diranas Quarry
+181004	Arch of the Seeker
+181005	Verdantfire Rift
+181006	Qeldar Station
+181007	Verdantfire Rift
+181008	Sundered Cave
+181009	Hulran Watch
+181010	Plunder Canyon
+181011	Entrance to Energia Celo
+181012	River's Edge
+181013	Baaldaz Post
+181014	Highwatch South Gate
+181015	Molten Spire Teleport Platform
+181016	Diranas Quarry Teleport Platform
+181017	Ancient Heart Teleport Platform - Archdeva Temporary Camp
+181018	Havenstone Ruins Teleport Platform
+181019	Ruins of Shalek
+181020	Diranas Quarry
+181021	Molten Spire
+181041	Qeldar Station Teleport Platform
+181042	Baaldaz Post Teleport Platform
+181043	Hulran Watch Teleport Platform
+182001	Spring Valley
+182002	Amadjuak Trading Post
+182003	Nerine Trough
+182004	Hina Hot Springs
+182005	Parthian Overwatch
+182006	Bloodshadow Laboratory
+182007	Demokron Proving Ground
+182008	Seeker's Point
+182009	Seeker's Overwatch
+182010	Springview
+182011	Eleutheros
+182012	Tranquility Falls
+182013	Inky Den
+182014	Cave Warehouse
+182015	Kazan's Ridge
+182016	Entrance to Sabex Armory
+182017	Emerald Hills
+182018	Sabex Armory Entrance
+182019	Valkyon Outpost
+182030	Amadjuak Trading Post Teleport Platform
+182031	Exodor Departure Zone
+182100	Western Springs Teleport Platform
+182101	Eastern Springs Teleport Platform
+182102	Godsteps Teleport Platform
+182103	Emerald Hills Teleport Platform
+182200	Hina Hot Springs
+182300	Hina Hot Springs
+182400	Kazan's Ridge
+182500	Emerald Hills
+183001	Highwatch Outskirts
+183002	Highwatch
+183003	Sanctuary of Illumination
+183004	Meditation Way
+183005	Veritas Vault
+183006	Hall of Arms
+183007	Hall of Accord
+183008	Erudar Command
+183009	Court of Enlightenment
+183010	Bazaar
+183011	Artisans Hall
+183012	Oriyn's Vigil
+183013	Hall of Accord
+183014	Teleportal
+183015	Shadow Sanguinary Entrance
+191001	Trellum Consurgo
+200001	Flight Manager
+200002	Teleportal
+200003	Guild Manager
+200004	Dye Merchant
+200005	Trade Broker
+200006	Merchant
+200007	Reputation Merchant
+200008	Token Rewards
+221501	Manglemire Entrance
+248001	Khanovar Front
+249001	Argonea
+250001	Granarkus
+302301	Akalath Quarantine Entrance
+302701	Forbidden Arena Waiting Room
+302702	Forbidden Arena Passage
+469001	Arx Umbra: About 50 years ago
+505111	Elenea
+505112	Firespine Outpost
+506001	Velika Banquet
+506002	Unknown Destination
+506003	Unknown Destination
+506004	Ruined Velika Banquet
+506005	The Veil
+506006	Velika Banquet Redux
+506015	The Veil
+506016	The Veil
+507001	Storm Barrier
+508001	Unknown Space
+569001	Castle Aranea (Solo)
+599001	Stepstone Isle
+599002	Tangle Point
+599003	Shadetree Entrance
+599004	Shadetree
+599005	Temple of the Tree
+599006	Valkyon Federation Post
+599007	Windmill Hill
+599008	Stoneroot Bridge
+599009	Great Root Arches
+599010	Storehouse
+599011	Stepstone Pegasus Platform
+599012	Saproot Cave
+780781	Velik's Hold
+818001	Secret Lab
+818002	Laboratory Approach Corridor
+818003	Experiment Cages
+818004	Main Laboratory Corridor
+818005	Main Laboratory
+826001	Raqnan Fortress Basement Laboratory
+905601	Timescape (Hard)
+905602	Scarlet Way
+905603	Beyond Thundertrial
+905604	Final Judgment
+905901	The Mists
+905902	Breakers Point
+905903	Execution Square
+906701	Demokron Factory Entrance
+906702	Odon's Chamber
+906703	Verno's Chamber
+906900	Castle Aranea Grounds
+906901	Castle Aranea Gatehouse
+906902	Monstrous Arena
+906903	Castle Dungeons
+906904	Slave Pens
+906905	Castle Sewers
+906906	Torture Chamber
+906907	Secret Passage
+906908	Castle Courtyard
+906909	Weapons Lab
+906910	Throne Room
+906911	Queen's Chambers
+906912	Hidden Altar
+906913	Anea's Palace Entrance
+907001	Playpen Entrance
+907002	Playpen
+950001	Harrowhold
+950002	Harrowhold Entrance
+973501	RK-9 Kennel
+973502	Entrance to RK-9 Kennel
+975601	Timescape
+975602	Scarlet Way
+975603	Beyond Thundertrial
+975604	Final Judgment
+976701	Demokron Factory Entrance
+976702	Odon's Chamber
+976703	Verno's Chamber
+976901	Entrance to Lilith's Keep and Ruinous Manor
+976902	Burning Garden
+976903	Grand Hall
+976904	Lady's Chamber
+976905	Manor Hallway
+976906	Entrance to Lilith's Keep
+978000	Velik's Hold
+978001	Velik's Hold - Entrance
+978002	Outer Passage
+978003	Archdevan Outpost
+978004	Fractured Halls
+978005	Velik's Passage
+978010	Broken Tunnel
+978011	Crystal Gallery
+978020	Shattered Hall - Entrance
+978021	Shattered Hall
+978030	Velik's Gate
+978031	Velik's Gate
+979501	Crucible of Fame
+996901	Entrance to Lilith's Keep and Ruinous Manor
+996902	Burning Garden
+996903	Grand Hall
+996904	Lady's Chamber
+996905	Manor Hallway
+996906	Entrance to Lilith's Keep
+998000	Velik's Hold (Hard)
+998001	Velik's Hold (Hard) - Entrance
+998002	Outer Passage
+998003	Archdevan Outpost
+998004	Fractured Halls
+998005	Velik's Passage
+998010	Sloping Tunnel
+998011	Crystal Gallery
+998020	Shattered Hall - Entrance
+998021	Shattered Hall
+998030	Velik's Gate
+998031	Velik's Gate
+1810041	Entrance to Bathysmal Rise
 8000001	Relic Hunter Outpost
 8000002	Valkyon Federation Headquarters
 8000003	Seekers' Locus
 8000004	Firebase Valor
 8000005	Firebase Audacity
-8000006	Wary Vigil
+8000006	Retribution Point
 8000007	Sanctum Mysterium
 8000008	The Pit
 8000009	Vindicator Camp
@@ -934,11 +1308,11 @@
 8000018	Professors Redoubt
 8000019	Depths of Corruption
 8000020	Bloody Depths
-8000021	Labyrinth Entrance
+8000021	Golden Labyrinth Entrance
 8000022	Thulsa's Foil
 8000023	Bestial Vale
-8000024	Vale of the Fang
-8000025	Grand Chapel
+8000024	Sinestral Manor Servants' Entrance
+8000025	Dark Cathedral
 8000026	Azarel's Labyrinth Depths
 8000027	Vanguard Bastion
 8000028	Press Camp
@@ -999,15 +1373,22 @@
 8000083	Labyrinth of Terror Entrance
 8000084	Altar of Death Entrance
 8000085	Arachne's Bane
-8000086	Ascent of Saravash Entrance
+8000086	Saravash's Den Entrance
 8000087	Sigil Adstringo Portal
 8000088	Forgeheart
 8000089	Dratheel Haven
 8000090	Acarum Boneyard
 8000091	Frontline Underground Tunnel Entrance
 8000092	Lighthouse of the Sun Entrance
-8000093	Velika Test Site of Limits Entrance
+8000093	Velika
+8000094	Muricai Fishery
+8000095	Cutthroat Harbor Fishery
+8000096	Lake of Tears Fishery
+8000097	Vexatus Swamp Fishery
+8000098	Celsian Lake Fishery
+8000099	Seren's Lake Fishery
 8104000	Entrance to Lakan's Prison
+8104002	Entrance to Broken Prison
 8999001	Velik's Sanctuary
 9001001	Samael's Residence
 9002001	Fountain of Shara
@@ -1016,7 +1397,7 @@
 9007001	Hidden Shrine
 9008001	Malachai's Lab
 9009001	Malachai's Lab
-9011001	Legendary Blacksmith's Workshop
+9011001	Muhrak's Workshop
 9012001	Three Towers Spires
 9013001	Cyasma Spire
 9014001	Khanovar Gauntlet
@@ -1051,6 +1432,25 @@
 9027001	Manaya's Core (Hard)
 9027002	The Plexus (Hard)
 9028001	Malachai's Lab
+9029001	Vault of Kaprima
+9029002	Drill Chamber
+9029003	Hall of the Harbinger
+9029004	Resurrection Hall
+9029005	Entrance to Vault of Kaprima
+9031001	Akasha's Trial
+9032001	Baracos' Trial
+9033001	Krakatox's Trial
+9034001	Dreadspire Entrance
+9034002	Dreadspire: 2nd Challenge
+9034003	Dreadspire: 3rd Challenge
+9034004	Dreadspire: 4th Challenge
+9034005	Dreadspire: 5th Challenge
+9034006	Dreadspire: 6th Challenge
+9034007	Dreadspire: 7th Challenge
+9034008	Dreadspire: 8th Challenge
+9034009	Dreadspire: 9th Challenge
+9034010	Dreadspire: 10th Challenge
+9034011	Dreadspire: 1st Challenge
 9036001	Karascha's Lair
 9037001	Tainted Gorge Bridge
 9038001	Mysterious Jungle
@@ -1077,6 +1477,11 @@
 9043101	Solonesome Cage(Hard)
 9043111	Unceremonious Landing (Hard)
 9043121	Vacant Stair (Hard)
+9044000	Entrance to the Sanctuary of Baha'ar
+9044001	Sanctuary of Baha'ar
+9044002	Sanctuary of Baha'ar - Gate of the Seal
+9044003	Sanctuary of Baha'ar - Hall of the God of Fire
+9044004	Sanctuary of Baha'ar - Hall of the god of Fire
 9045001	Bluefist Mountain
 9045002	Lilipart Village
 9046001	Accursed Oasis
@@ -1107,8 +1512,45 @@
 9052004	Banquet Hall
 9052005	Ceremonial Room
 9053001	Kezzel's Gorge
+9054001	Bathysmal Rise (Hard)
+9054002	Cavern of Runes
+9054003	Toxic Conservatory
+9054004	Alsetnode Corridor
+9054005	Pool of Fear
+9054006	Elemental Hall
+9054007	Faridei Vault
+9054008	Faridei Vault
+9054009	Bathysmal Rise
+9055002	Ravenous Gorge
+9055003	The Gorger's Grotto
+9055004	Den of the Devourer
+9055005	Nest of Nimistrix
+9055008	Entrance to Ravenous Gorge
+9055009	Nest of Nimistrix
+9056001	Timescape Entrance
+9056002	Thundertrial
+9056003	The Basalt Cradle
+9056004	Timecore
+9056005	Timecore
+9057001	Akeron's Inferno (Hard)
+9057002	Akeron's Inferno Entrance
+9060001	Sentry Ship
+9060002	Dreadnaught Deck
+9060003	Boarding Ramp
+9060004	Dreadnaught Deck
+9060005	Cargo Hold
+9060006	Sentry Ship Deck
 9061001	Ruin of the Giants
 9065001	Twilight Valley
+9066001	Grand Plaza
+9066002	Demon's Wheel
+9066003	Demon's Wheel—Entrance
+9068001	Shadow Sanguinary (Hard)
+9068002	Guardian's Chamber
+9068003	Bloodshard Repository
+9068004	Imperator's Sanctum
+9068005	Foramen Chamber
+9070001	Manglemire Entrance
 9071001	Necromancer Tomb
 9071003	Necromancy Cell
 9071004	Chief Guard Room
@@ -1146,7 +1588,7 @@
 9078002	Suryati's Control Zone
 9078003	Sihranar Command Post
 9078004	Sihranar Research Site
-9079001	Ascent of Saravash
+9079001	Saravash's Ascent
 9079002	Saravash's Catchment
 9079003	Feldrenen Forest
 9079004	Mercenary Camp
@@ -1192,7 +1634,7 @@
 9095007	Crucible Hub
 9095008	East Brazier
 9096001	Sirjuka Gallery
-9120000	To the Entrance
+9120000	Alliance Hall
 9121001	Free Traders Territory
 9121002	The Surround
 9121003	The Barrens
@@ -1235,12 +1677,54 @@
 9126001	Alliance Vault
 9126101	Allemantheia—Gates of Honor
 9127001	Vault of Allies
-9128001	
 9128101	Kaiator—Plaza of Triumph
-9129001	
-9151001	Noctenium Research Grounds
+9503001	Valkyon Federation Commander Residence
+9611001	The Abscess (Hard) 
+9618001	Super Quiz Bowl
+9643001	Wonderholme
+9643002	Mockinghall
+9643011	Great Hall
+9643021	Cloud Bridge
+9643031	Two-Ring Circus
+9643041	Follybridge
+9643051	Brokish Corridor
+9643061	Beaminous Plateau
+9643071	Frolickish Corridor
+9643081	Play Room
+9643091	Aliss' Lab
+9643101	Solonesome Cage
+9643111	Unceremonious Landing
+9643121	Vacant Stair
+9681001	Velik's Dream
+9681002	Velik's Dream
+9681003	Velik's Distorted Dream
+9681004	Velik's Dream
+9681005	Velik's Dream
+9681006	Velik's Hold
+9681007	Velik's Dream
+9710001	Broken Prison
+9710002	Cathedral of Spite
+9710003	Chamber of Woe
+9710004	Gallery of Despair
 9711001	The Abscess (Hard)
-9711002	Entrance to the Abscess (Hard)
+9711002	Entrance to the Abscess
+9713001	Ghillieglade Entrance
+9713002	Ghillieglade Entrance
+9713003	Gatekeeper's Grotto
+9713004	Guardian's Plaza
+9713005	Banyakas’s Sanctum
+9714001	Velik's Sanctuary
+9716001	Sky Cruiser Endeavor
+9716002	Trellum Consurgo's Southern Gate
+9716003	Control Room
+9716004	Engine Room
+9716005	Sky Cruiser Deck
+9720000	Antaroth's Abyss - Entrance
+9720001	Antaroth's Abyss - The Confines
+9720002	Antaroth's Abyss - Execution Ground
+9720003	Antaroth's Abyss - Chamber of Trials
+9720004	Velika Outskirts
+9720005	Velika Outskirts
 9724001	Fane of Kaprima (Hard)
 9724002	Destroyed Cathedral
 9724003	Room of Guardian Knights
@@ -1262,10 +1746,22 @@
 9726005	Sanctuary of the Seer (Hard)
 9727001	Manaya's Core
 9727002	The Plexus
+9735001	Portal Room
+9735002	Ventilation Room
+9735003	Magnetic Field Testing Room
+9735004	Component Reprocessing Area
+9735005	Restricted Area: D
+9735006	Restricted Area: E
+9735007	Observation Room
+9739000	Red Refuge - Entrance
+9739001	Red Refuge - Forge
+9739002	Red Refuge - Armory
+9739003	Refuge Outskirts
+9739004	Infiltration Route
 9743001	Wonderholme
 9743002	Mockinghall
 9743011	Great Hall
-9743021	Cloud Bridge (Normal)
+9743021	Cloud Bridge
 9743031	Two-Ring Circus
 9743041	Follybridge
 9743051	Brokish Corridor
@@ -1276,9 +1772,34 @@
 9743101	Solonesome Cage
 9743111	Unceremonious Landing
 9743121	Vacant Stair
+9756001	Timescape Entrance
+9756002	Thundertrial
+9756003	The Basalt Cradle
+9756004	Timecore
+9756005	Timecore
+9757001	Akeron's Inferno
+9757002	Entrance to Akeron's Inferno
+9757003	The Hand of Akeron
+9757004	Akeron's Reach
+9757005	Theater of Terror
+9760001	Sentry Ship
+9760002	Dreadnaught Deck
+9760003	Boarding Ramp
+9760004	Dreadnaught Deck
+9760005	Cargo Hold
+9760006	Sentry Ship Deck
 9766001	Shattered Fleet
-9766002	Jagged Coast
+9766002	Entrance to the Shattered Fleet
 9766003	Entrance to the Shattered Fleet
+9768001	Shadow Sanguinary
+9768002	Guardian's Chamber
+9768003	Bloodshard Repository
+9768004	Imperator's Sanctum
+9768005	Foramen Chamber
+9770001	Destroyed Garden
+9770002	Destroyed Keep
+9770003	Lady's Chamber
+9770004	Entrance to Ruinous Manor
 9773001	Ebon Tower (Hard)
 9773002	Ebon Tower (Hard) - Primus
 9773003	Ebon Tower (Hard) - Secundus
@@ -1306,6 +1827,22 @@
 9777004	Channelworks—Spawning Chamber
 9777005	Channelworks—Great Cistern
 9777006	Channelworks—Cistern Access
+9781001	Velik's Sanctuary - Garden
+9781002	Velik's Sanctuary - Meeting Room
+9781003	Velik's Sanctuary - Velik's Shrine
+9781004	Velik's Sanctuary - Main Square
+9781005	Velik's Sanctuary - Bypass
+9781006	Velik's Hold
+9781007	Velik's Sanctuary - Entrance
+9782000	Grotto of Lost Souls Entrance
+9782001	Nedra's Haven
+9782002	Killing Ground
+9782003	Distortion Field
+9782004	Distortion Field Entrance
+9783000	Dark Reach Citadel Entrance
+9783001	Grand Plaza
+9783002	Library
+9783003	Ramparts
 9793001	Akasha's Hideout (Hard)
 9793002	Corridor of Pestilence (Hard)
 9793003	Sanguinarium (Hard)
@@ -1313,12 +1850,32 @@
 9793005	Chamber of Eccentricity (Hard)
 9793006	Chamber of Awe (Hard)
 9793007	Akasha's Chamber (Hard)
+9794001	Hidden Cave Entrance
+9794002	Refinery Mine
+9794003	Transgoblification Lab
+9794004	Entrance to Thaumetal Refinery
 9801001	Nexus Traverse
-9801002	Velika Arena
-9801003	Allemantheia Arena
-9801004	Kaiator Arena
+9801002	Velika 
+9801003	Allemantheia 
+9801004	Kaiator 
 9802001	Nexus Traverse
 9803001	Nexus Traverse
+9804001	Kelsaik's Nest
+9808001	Sabex Armory
+9808002	Pikes and Spikes
+9808003	Forge
+9808004	Storage B
+9808005	Sabex Vault
+9808006	Power Source
+9808007	Power Source
+9808008	Power Source
+9808009	Power Source
+9809001	Macellarius Catacombs
+9809002	Macellarius Catacombs
+9809003	Macellarius Catacombs
+9809004	Macellarius Catacombs
+9809005	Macellarius Catacombs
+9809010	Entrance to Macellarius Catacombs
 9810001	Lakan's Prison
 9810002	Lakan's Prison
 9810003	Lakan's Prison (Entrance Stairs)
@@ -1326,12 +1883,18 @@
 9810005	Lakan's Prison (Chamber of Worship)
 9811001	The Abscess
 9811002	Entrance to the Abscess
-9813001	Ghillieglade
+9813001	Ghillieglade (1-Person)
 9813002	Ghillieglade Entrance
 9813003	Gatekeeper's Grotto
 9813004	Guardian's Plaza
 9813005	Banyakas’s Sanctum
-9825001	Balder's Temple (1 person)
+9814001	The Vault of Oriyn
+9821001	Dakuryon's Sanctum
+9822001	Archdeva Listening Post
+9823001	Sky Cruiser Intrepid
+9823002	Sky Cruiser Intrepid
+9823003	Weather Deck
+9825001	Balder's Temple (Solo)
 9825090	Temple Entrance
 9825091	Temple Labyrinth
 9825092	Temple Pond
@@ -1341,51 +1904,129 @@
 9825096	Temple Sanctum
 9825097	Room of Relics
 9825098	Temple Bridge
-9871001	Necromancer Tomb (1 person)
-9871003	Necromancy Cell (1 person)
-9871004	Chief Guard Room (1 person)
-9871005	Brotherhood Quarters (1 person)
-9871006	Necromancy Lab (1 person)
-9871007	Chapel of Pain (1 person)
-9871008	Thulsa's Chamber (1 person)
-9871009	Secret Passage (1 person)
-9872001	Golden Labyrinth (1 person)
-9872002	Chamber of the Wild (1 person)
-9872003	Supply Room (1 person)
-9872004	Chamber of Sacrifice (1 person)
-9872005	Chamber of Trial (1 person)
-9872006	Chamber of Gatekeeper (1 person)
-9873001	Ebon Tower (1 person)
-9873002	Ebon Tower - Primus (1 person)
-9873003	Ebon Tower - Secundus (1 person)
-9873004	Ebon Tower - Tertius (1 person)
-9873005	Ebon Tower - Quartus (1 person)
-9873006	Ebon Tower - Quintus (1 person)
-9873007	Hall of Shadows (1 person)
-9873008	Chamber of Anguish (1 person)
-9873009	Altar of Death (1 person)
-9873010	Tomb of Torment (1 person)
-9887001	Bastion of Lok (1 person)
-9887002	Bastion of Lok (1 person)
-9887003	Atel Akaad Stronghold (1 person)
-9888001	Sinestral Manor (1 person)
-9888002	Manor Cellar (1 person)
-9888003	Manor Floor (1 person)
-9888004	Menhir Production Floor (1 person)
-9889001	Cultists' Refuge (1 person)
-9889002	Chamber of Wonder (1 person)
-9889003	Chamber of Immorality (1 person)
-9889004	Chamber of Hatred (1 person)
+9830001	Celestial Arena
+9830002	Highwatch
+9833003	Croskurn Approach
+9833004	Croskurn Mines
+9833005	Firespine Outpost
+9833006	Zaeltarazad Shrine
+9833007	Boneshade Camp
+9860001	Sentry Ship
+9860002	Dreadnaught Deck
+9860003	Boarding Ramp
+9860004	Dreadnaught Deck
+9860005	Cargo Hold
+9860006	Sentry Ship Deck
+9871001	Necromancer Tomb (Solo)
+9871003	Necromancy Cell (Solo)
+9871004	Chief Guard Room (1-Person)
+9871005	Brotherhood Quarters (1-Person)
+9871006	Necromancy Lab (1-Person)
+9871007	Chapel of Pain (1-Person)
+9871008	Thulsa's Chamber (1-Person)
+9871009	Secret Passage (1-Person)
+9872001	Golden Labyrinth (Solo)
+9872002	Chamber of the Wild (1-Person)
+9872003	Supply Room (1-Person)
+9872004	Chamber of Sacrifice (1-Person)
+9872005	Chamber of Trial (1-Person)
+9872006	Chamber of Gatekeeper (1-Person)
+9873001	Ebon Tower (Solo)
+9873002	Ebon Tower - Primus (1-Person)
+9873003	Ebon Tower - Secundus (1-Person)
+9873004	Ebon Tower - Tertius (1-Person)
+9873005	Ebon Tower - Quartus (1-Person)
+9873006	Chamber of Anguish (1-Person)
+9873007	Hall of Shadows (1-Person)
+9873008	Chamber of Anguish (1-Person)
+9873009	Altar of Death (1-Person)
+9873010	Tomb of Torment (1-Person)
+9885001	Dreadspire
+9885002	Challenge
+9885003	Entrance to the Dreadspire
+9885004	Manaya the Terrible
+9887001	Bastion of Lok (Solo)
+9887002	Bastion of Lok (Solo)
+9887003	Atel Akaad Stronghold (1-Person)
+9888001	Sinestral Manor (Solo)
+9888002	Manor Cellar (1-Person)
+9888003	Manor Floor (1-Person)
+9888004	Menhir Production Floor (1-Person)
+9889001	Cultists' Refuge (Solo)
+9889002	Chamber of Wonder (1-Person)
+9889003	Chamber of Immorality (1-Person)
+9889004	Chamber of Hatred (1-Person)
 9900001	Original Position
-9911001	Kelsaik's Raid (10-Person Raid)
-9911002	Guardian's Chamber (10-Person Raid)
-9911003	Kelsaik's Hall (10-Person Raid)
-9975001	Kelsaik's Raid (20-Person Raid)
-9975002	Guardian's Chamber (20-Person Raid)
-9975003	Kelsaik's Hall (20-Person Raid)
+9911001	Kelsaik's cliff (8-Person)
+9911002	Guardian's Chamber (8-Person)
+9911003	Kelsaik's Hall (8-Person)
+9916001	Sky Cruiser Endeavor (Hard)
+9916002	Trellum Consurgo's Southern Gate
+9916003	Control Room (Hard)
+9916004	Engine Room (Hard) 
+9916005	Sky Cruiser Deck (Hard) 
+9920000	Antaroth's Abyss (Hard) - Entrance
+9920001	Antaroth's Abyss (Hard) - The Confines
+9920002	Antaroth's Abyss (Hard) - Execution Ground
+9920003	Antaroth's Abyss (Hard) - Chamber of Trials
+9920004	Velika Outskirts
+9920005	Velika Outskirts
+9935001	Portal Room
+9935002	Ventilation Room
+9935003	Magnetic Field Testing Room
+9935004	Component Reprocessing Area
+9935005	Restricted Area: D
+9935006	Restricted Area: E
+9935007	Observation Room
+9939000	Red Refuge (Hard) - Entrance
+9939001	Red Refuge (Hard) - Forge
+9939002	Red Refuge (Hard) - Armory
+9939003	Refuge Outskirts
+9939004	Infiltration Route
+9950001	Harrowhold
+9950002	Harrowhold - Courtyard
+9950003	Harrowhold - Cliffs
+9970001	Destroyed Garden
+9970002	Destroyed Keep
+9970003	Lady's Chamber
+9970004	Entrance to Ruinous Manor
+9975001	Kelsaik's Raid (20-Person)
+9975002	Guardian's Chamber (20-Person)
+9975003	Kelsaik's Hall (20-Person)
+9979001	Saravash's Den
+9979002	Saravash's Catchment
+9979003	Feldrenen Forest
+9979004	Threat Camp
+9981001	Velik's Sanctuary (Hard) - Garden
+9981002	Velik's Sanctuary (Hard) - Meeting Room
+9981003	Velik's Sanctuary (Hard) - Velik's Shrine
+9981004	Velik's Sanctuary (Hard) - Main Square
+9981005	Velik's Sanctuary (Hard) - Bypass
+9981006	Velik's Hold
+9981007	Velik's Sanctuary (Hard) - Entrance
+9982000	Grotto of Lost Souls Entrance
+9982001	Nedra's Haven
+9982002	Killing Ground
+9982003	Distortion Field
+9982004	Distortion Field Entrance
+9983000	Dark Reach Citadel (Hard) Entrance
+9983001	Grand Plaza
+9983002	Library
+9983003	Ramparts
 9990001	Attack!
 9990002	Defend!
 9990003	Danger!
 9990004	Converge!
+9994001	Hidden Cave Entrance
+9994002	Refinery Mine
+9994003	Transgoblification Lab
 9999998	A map is being developed for this area.
 9999999	Map cannot be displayed for this area.
+10230001	Azart Hatchery (Solo)
+10230002	Azart Hatchery
+30231000	Akalath Quarantine
+30231001	Akalath Quarantine - Storehouse
+30231002	Akalath Quarantine - Laboratory
+30232000	Federation Reliquary Station
+96431504	Shortcut
+302700001	Forbidden Arena Entrance

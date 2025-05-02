@@ -1,18 +1,18 @@
-21000	Evasive Roll	20100	icon_skills.tumbling_tex	Swift Evasive Roll	icon_crest.e_crestactiveattackspeedup_tex	30% chance to increase attack speed by 15% for 10 seconds.
+21000	Evasive Roll	20100	icon_skills.tumbling_tex	Swift Evasive Roll	icon_crest.e_crestactiveattackspeedup_tex	30% chance to increase Attack Speed by 15% for 10 seconds.
 21001	Retaliate	130100	icon_skills.risingattack_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 21002	Death From Above	100100	icon_skills.evasionattack_tex	Energetic Death From Above	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
 21003	Mangle	140100	icon_skills.aimingankle_tex	Test	icon_skills.voidtrap_tex	No Effect
 21004	Combo Attack	10100	icon_skills.comboattack_tex	Threatening Combo Attack	icon_crest.e_crestpassiveaggroup_tex	Provides 5% additional aggro.
 21005	Torrent of Blows	30100	icon_skills.nanmu_tex	Threatening Torrent of Blows	icon_crest.e_crestpassiveaggroup_tex	Provides 20% additional aggro.
-21006	Rain of Blows	40100	icon_skills.pointattack_tex	Empowered Rain of Blows	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25% and improves the skill's edge generation.
+21006	Rain of Blows	40100	icon_skills.pointattack_tex	Empowered Rain of Blows	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 21007	Leaping Strike	120100	icon_skills.downblowattack_tex	Empowered Leaping Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 21008	Poison Blade	110100	icon_skills.poisonblowattack_tex	Virulent Poison Blade	icon_crest.e_crestpassiveskilleffectup_tex	Increases poison damage by 15%.
-21009	Defensive Stance	90100	icon_skills.ironwillb_tex	Grounded Defensive Stance	icon_crest.e_crestpassiveskilleffectup_tex	Increases endurance by 20%.
+21009	Defensive Stance	90100	icon_skills.ironwillb_tex	Grounded Defensive Stance	icon_crest.e_crestpassiveskilleffectup_tex	Increases Endurance by 20%.
 21010	Retaliate	130100	icon_skills.risingattack_tex	Empowered Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-21011	Torrent of Blows	30100	icon_skills.nanmu_tex	Influential Torrent of Blows	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 88: Rain of Blows.
-21012	Retaliate	130100	icon_skills.risingattack_tex	Influential Retaliate	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 75: Leaping Strike.
-21013	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 35%.
-21014	Death From Above	100100	icon_skills.evasionattack_tex	Swift Death From Above	icon_crest.e_crestactiveattackspeedup_tex	50% chance to increase attack speed by 15% for 10 seconds.
+21011	Torrent of Blows	30100	icon_skills.nanmu_tex	Influential Torrent of Blows	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Rain of Blows by 88 for a few seconds.
+21012	Retaliate	130100	icon_skills.risingattack_tex	Influential Retaliate	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Leaping Strike by 75 for a few seconds.
+21013	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 35%.
+21014	Death From Above	100100	icon_skills.evasionattack_tex	Swift Death From Above	icon_crest.e_crestactiveattackspeedup_tex	50% chance to increase Attack Speed by 15% for 10 seconds.
 21015	Evasive Roll	20100	icon_skills.tumbling_tex	Unending Evasive Roll	icon_crest.e_crestactivecooltimereset_tex	Reduces RE cost by 100.
 21016	Battle Cry	50100	icon_skills.thunderingroar_tex	Energetic Battle Cry	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 21017	Rain of Blows	40100	icon_skills.pointattack_tex	Restorative Rain of Blows	icon_crest.e_crestpassivehpheal_tex	Immediately restores 0,5% HP.
@@ -26,14 +26,14 @@
 21025	Deadly Gamble	200100	icon_skills.deadlywill_tex	Energetic Deadly Gamble	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 21026	Staggering Counter	230100	icon_skills.reversalturningattack_tex	Empowered Staggering Counter	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 21027	Cascade of Stuns	210100	icon_skills.hardslash_tex	Brilliant Cascade of Stuns	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 88.
-21028	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Powerlinked Combative Strike	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Rising Fury.
-21029	Charging Slash	160100	icon_skills.rushingslash_tex	Influential Charging Slash	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 50: Poison Blade.
-21030	Cascade of Stuns	210100	icon_skills.hardslash_tex	Influential Cascade of Stuns	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 88: Rain of Blows.
-21031	Cascade of Stuns	210100	icon_skills.hardslash_tex	Powerlinked Cascade of Stuns	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Rain of Blows.
+21028	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Powerlinked Combative Strike	icon_crest.e_crestnextskillattackup_tex	Increases damage of Rising Fury by 20% for a few seconds.
+21029	Charging Slash	160100	icon_skills.rushingslash_tex	Influential Charging Slash	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Poison Blade by 50 for a few seconds.
+21030	Cascade of Stuns	210100	icon_skills.hardslash_tex	Influential Cascade of Stuns	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Rain of Blows by 88 for a few seconds.
+21031	Cascade of Stuns	210100	icon_skills.hardslash_tex	Powerlinked Cascade of Stuns	icon_crest.e_crestnextskillattackup_tex	Increases damage of Rain of Blows by 20% for a few seconds.
 21032	Cascade of Stuns	210100	icon_skills.hardslash_tex	Energetic Cascade of Stuns	icon_crest.e_crestactivecooltimereset_tex	Decreases cooldown by 25%.
-21033	Rising Fury	190100	icon_skills.tenaciousattack_tex	Numbing Rising Fury	icon_crest.e_crestactiveattackspeeddown_tex	10% chance to decrease opponent's attack speed by 15% for 7 seconds.
+21033	Rising Fury	190100	icon_skills.tenaciousattack_tex	Numbing Rising Fury	icon_crest.e_crestactiveattackspeeddown_tex	10% chance to decrease opponent's Attack Speed by 15% for 7 seconds.
 21034	Torrent of Blows	30100	icon_skills.nanmu_tex	Binding Torrent of Blows	icon_crest.e_crestactivespeeddown_tex	25% chance to immobilize target for 4 seconds.
-21035	Charging Slash	160100	icon_skills.rushingslash_tex	Powerlinked Charging Slash	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Combative Strike.
+21035	Charging Slash	160100	icon_skills.rushingslash_tex	Powerlinked Charging Slash	icon_crest.e_crestnextskillattackup_tex	Increases damage of Combative Strike by 20% for a few seconds.
 21036	Backstab	220100	icon_skills.backattack_tex	Energetic Backstab	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 21037	Staggering Counter	230100	icon_skills.reversalturningattack_tex	Lingering Staggering Counter	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
 21038	Staggering Counter	230100	icon_skills.reversalturningattack_tex	Energetic Staggering Counter	icon_crest.e_crestactivecooltimereset_tex	Decreases cooldown by 20%.
@@ -42,44 +42,51 @@
 21041	Battle Cry	50100	icon_skills.thunderingroar_tex	Lucky Battle Cry	icon_crest.e_crestpassivethorns_tex	Increases chance of effect by 10%.
 21042	Battle Cry	50100	icon_skills.thunderingroar_tex	Threatening Battle Cry	icon_crest.e_crestpassiveaggroup_tex	Provides 100% additional aggro.
 21043	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Lingering Combative Strike	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-21044	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Powerlinked Combative Strike	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 35%: Leaping Strike.
+21044	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Powerlinked Combative Strike	icon_crest.e_crestnextskillattackup_tex	Increases damage of Leaping Strike by 35% for a few seconds.
 21045	Vortex Slash	170100	icon_skills.allroundslash_tex	Persistent Vortex Slash	icon_crest.e_crestactivecooltimereset_tex	30% chance to eliminate cooldown.
-21046	Evasive Roll	20100	icon_skills.tumbling_tex	Restorative Evasive Roll	icon_crest.e_crestnextskillhpheal_tex	Immediately restores 3% of total HP for the next chain skill: Poison Blade.
+21046	Evasive Roll	20100	icon_skills.tumbling_tex	Restorative Evasive Roll	icon_crest.e_crestnextskillhpheal_tex	Immediately restores 3% of total HP when you hit with Poison Blade.
 21047	Death From Above	100100	icon_skills.evasionattack_tex	Test	icon_skills.voidtrap_tex	No Effect
 21048	Pounce	270100	icon_skills.heavybite_tex	Swift Pounce	icon_crest.e_crestactiveattackspeedup_tex	Increases attack speed of Pounce by 30%.
 21049	Pounce	270100	icon_skills.heavybite_tex	Energetic Pounce	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 21050	Traverse Cut	280100	icon_skills.dualrapidpiercing_tex	Lingering Traverse Cut	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
 21051	Traverse Cut	280100	icon_skills.dualrapidpiercing_tex	Brilliant Traverse Cut	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 75.
-21052	Blade Draw	290100	icon_skills.dualslash_tex	Empowered Blade Draw	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25% and improves the skill's edge generation.
-21053	Blade Draw	290100	icon_skills.dualslash_tex	Brilliant Blade Draw	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 80.
+21052	Blade Draw	290100	icon_skills.dualslash_tex	Empowered Blade Draw	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+21053	Blade Draw	290100	icon_skills.dualslash_tex	Brilliant Blade Draw	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
 21054	Blade Draw	290100	icon_skills.dualslash_tex	Persistent Blade Draw	icon_crest.e_crestactivecooltimereset_tex	50% chance to eliminate cooldown.
 21064	Rain of Blows	40100	icon_skills.pointattack_tex	Empowered Rain of Blows	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 21065	Death From Above	100100	icon_skills.evasionattack_tex	Energetic Death From Above	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
 21066	Rain of Blows	40100	icon_skills.pointattack_tex	Restorative Rain of Blows	icon_crest.e_crestpassivehpheal_tex	Immediately restores 0,5% HP.
 21067	Evasive Roll	20100	icon_skills.tumbling_tex	Unending Evasive Roll	icon_crest.e_crestactivecooltimereset_tex	Reduces RE cost by 100.
-21068	Defensive Stance	90100	icon_skills.ironwillb_tex	Grounded Defensive Stance	icon_crest.e_crestpassiveskilleffectup_tex	Increases endurance by 20%.
+21068	Defensive Stance	90100	icon_skills.ironwillb_tex	Grounded Defensive Stance	icon_crest.e_crestpassiveskilleffectup_tex	Increases Endurance by 20%.
 21069	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Sanative Combative Strike	icon_crest.e_crestpassivehpdown_tex	Decreases HP consumption by 50%.
-21070	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 35%.
+21070	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 35%.
 21071	Smoke Aggressor	240100	icon_skills.decoy_tex	Energetic Smoke Aggressor	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
-21072	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Powerlinked Combative Strike	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 45%: Leaping Strike.
-21073	Charging Slash	160100	icon_skills.rushingslash_tex	Powerlinked Charging Slash	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 50%: Combative Strike.
-21074	Death From Above	100100	icon_skills.evasionattack_tex	Grounded Death From Above	icon_crest.e_crestactivedefenceup_tex	Increases endurance by 25 for 8 seconds.
-21075	Backstab	220100	icon_skills.backattack_tex	Advantageous Backstab	icon_crest.e_crestactiveattackspeedup_tex	Generates 1 additional Edge.
+21072	Combative Strike	180100	icon_skills.aggravatingstrike_tex	Powerlinked Combative Strike	icon_crest.e_crestnextskillattackup_tex	Increases damage of Leaping Strike by 45% for a few seconds.
+21073	Charging Slash	160100	icon_skills.rushingslash_tex	Powerlinked Charging Slash	icon_crest.e_crestnextskillattackup_tex	Increases damage of Combative Strike by 50% for a few seconds.
+21074	Death From Above	100100	icon_skills.evasionattack_tex	Grounded Death From Above	icon_crest.e_crestactivedefenceup_tex	Increases Endurance by 25 for 8 seconds.
+21075	Backstab	220100	icon_skills.backattack_tex	Advantageous Backstab	icon_crest.e_crestactiveattackspeedup_tex	Increases Edge generation by 1.
 21076	Cascade of Stuns	210100	icon_skills.hardslash_tex	Empowered Cascade of Stuns	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 21077	Cascade of Stuns	210100	icon_skills.hardslash_tex	Lingering Cascade of Stuns	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 25%.
-21078	Staggering Counter	230100	icon_skills.reversalturningattack_tex	Powerlinked Staggering Counter	icon_crest.e_crestnextskillattackup_tex	Increases attack power for the next chain skill by 10%: Cascade of Stuns.
-21079	Scythe	300100	icon_skills.raker_tex	Carving Scythe	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance of a critical hit.
-21080	Scythe	300100	icon_skills.raker_tex	Sharpened Scythe	icon_crest.e_crestpassiveattackup_tex	Increases bonus Edge damage by 25%.
+21078	Staggering Counter	230100	icon_skills.reversalturningattack_tex	Powerlinked Staggering Counter	icon_crest.e_crestnextskillattackup_tex	Increases damage of Cascade of Stuns by 10% for a few seconds.
+21079	Scythe	300100	icon_skills.raker_tex	Carving Scythe	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit
+21080	Scythe	300100	icon_skills.raker_tex	Empowered Scythe	icon_crest.e_crestpassiveattackup_tex	Increases Edge damage by 25%.
 21081	Backstab	220100	icon_skills.backattack_tex	Lingering Backstab	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
 21082	Pounce	270100	icon_skills.heavybite_tex	Swift Pounce	icon_crest.e_crestactiveattackspeedup_tex	Increases attack speed of Pounce by 30%.
 21083	Poison Blade	110100	icon_skills.poisonblowattack_tex	Cumulative Poison Blade	icon_crest.e_crestactiveattackspeedup_tex	Poison Blade's damage stacks up to 2 times.
-21084	Blade Draw	290100	icon_skills.dualslash_tex	Advantageous Blade Draw	icon_crest.e_crestactiveattackspeedup_tex	Generates 1 additional Edge per hit.
+21084	Blade Draw	290100	icon_skills.dualslash_tex	Advantageous Blade Draw	icon_crest.e_crestactiveattackspeedup_tex	Increases Edge generation by 1 per hit.
 21085	Reaping Slash	310100	icon_skills.rupture_tex	Empowered Reaping Slash	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-21086	Cross Parry	320100	icon_skills.twinswordsdefence_tex	Pumped Cross Parry	icon_crest.e_crestactiveattackup_tex	30% chance to increase power by 15% for 10 seconds on a successful block.
+21086	Cross Parry	320100	icon_skills.twinswordsdefence_tex	Pumped Cross Parry	icon_crest.e_crestactiveattackup_tex	30% chance to increase Power by 15% for 10 seconds on a successful block.
 21087	Smoke Flanker	330100	icon_skills.shadowchange_tex	Threatening Smoke Flanker	icon_crest.e_crestpassiveaggroup_tex	Provides 20% additional aggro.
-22000	Stand Fast	20100	icon_skills.defence_tex	Pumped Stand Fast	icon_crest.e_crestactiveattackup_tex	30% chance to increase power by 15% for 10 seconds on a successful block.
-22001	Stand Fast	20100	icon_skills.defence_tex	Powerlinked Stand Fast	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Shield Counter.
-22002	Stand Fast	20100	icon_skills.defence_tex	Influential Stand Fast	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 115: Shield Counter.
+21088	Binding Sword	340100	icon_skills.bindingblade_tex	Empowered Binding Sword	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+21089	Binding Sword	340100	icon_skills.bindingblade_tex	Empowered Binding Sword	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+21090	Binding Sword	340100	icon_skills.bindingblade_tex	Energetic Binding Sword	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+21091	Deadly Gamble	200100	icon_skills.deadlywill_tex	Lingering Deadly Gamble	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 20%.
+21092	Binding Sword	340100	icon_skills.bindingblade_tex	Energetic Binding Sword	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+21093	Infuriate	350100	icon_skills.provokerage_tex	Slowing Infuriate	icon_crest.e_crestpassivespeeddown_tex	Decrease opponent's Movement Speed by 50% for 5 seconds.
+21094	Infuriate	350100	icon_skills.provokerage_tex	Energetic Infuriate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+22000	Stand Fast	20100	icon_skills.defence_tex	Pumped Stand Fast	icon_crest.e_crestactiveattackup_tex	30% chance to increase Power by 15% for 10 seconds on a successful block.
+22001	Stand Fast	20100	icon_skills.defence_tex	Powerlinked Stand Fast	icon_crest.e_crestnextskillattackup_tex	Increases damage of Shield Counter by 25% for a few seconds.
+22002	Stand Fast	20100	icon_skills.defence_tex	Influential Stand Fast	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Shield Counter by 115 for a few seconds.
 22003	Combo Attack	10100	icon_skills.comboattack_tex	Threatening Combo Attack	icon_crest.e_crestpassiveaggroup_tex	Provides 5% additional aggro.
 22004	Challenging Shout	40100	icon_skills.roar_tex	Threatening Challenging Shout	icon_crest.e_crestpassiveaggroup_tex	Provides 20% additional aggro.
 22005	Challenging Shout	40100	icon_skills.roar_tex	Brilliant Challenging Shout	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 60.
@@ -90,15 +97,15 @@
 22010	Guardian Shout	70100	icon_skills.inspiringroar_tex	Brilliant Guardian Shout	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 200.
 22012	Retaliate	110100	icon_skills.risingattack_tex	Empowered Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 22013	Shield Barrage	180100	icon_skills.shieldattack_tex	Brilliant Shield Barrage	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 19.
-22015	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20%.
+22015	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20%.
 22016	Debilitate	100100	icon_skills.armorbreak_tex	Impelling Debilitate	icon_crest.e_crestactivempzero_tex	35% chance to eliminate MP cost.
 22017	Leash	90100	icon_skills.hookthrow_tex	Energetic Leash	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 22018	Infuriate	120100	icon_skills.provokerage_tex	Energetic Infuriate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 22019	Shield Bash	50100	icon_skills.shieldstrike_tex	Energetic Shield Bash	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 22020	Charging Lunge	150100	icon_skills.advancingcharge_tex	Empowered Charging Lunge	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 22021	Second Wind	160100	icon_skills.rejuvenation_tex	Energetic Second Wind	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
-22022	Adrenaline Rush	170100	icon_skills.fightingwill_tex	Swift Adrenaline Rush	icon_crest.e_crestpassiveskilleffectup_tex	Increases attack speed by an additional 10%.
-22023	Spring Attack	130100	icon_skills.leaprampage_tex	Brilliant Spring Attack	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 75.
+22022	Adrenaline Rush	170100	icon_skills.fightingwill_tex	Swift Adrenaline Rush	icon_crest.e_crestpassiveskilleffectup_tex	Increases Attack Speed by an additional 10%.
+22023	Spring Attack	130100	icon_skills.leaprampage_tex	Brilliant Spring Attack	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 160.
 22024	Retaliate	110100	icon_skills.risingattack_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 22025	Menacing Wave	200100	icon_skills.menacewave_tex	Brilliant Menacing Wave	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 60.
 22026	Iron Will	220100	icon_skills.armoredwill_tex	Lingering Iron Will	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
@@ -110,7 +117,7 @@
 22032	Onslaught	30100	icon_skills.screwthrough_tex	Brilliant Onslaught	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 100.
 22033	Shield Counter	80100	icon_skills.riposte_tex	Threatening Shield Counter	icon_crest.e_crestpassiveaggroup_tex	Provides 100% additional aggro.
 22034	Debilitate	100100	icon_skills.armorbreak_tex	Lingering Debilitate	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 100%.
-22035	Shield Bash	50100	icon_skills.shieldstrike_tex	Blazing Shield Bash	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Onslaught, the next skill in the chain.
+22035	Shield Bash	50100	icon_skills.shieldstrike_tex	Blazing Shield Bash	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Onslaught by 25% for a few seconds.
 22036	Pledge of Protection	190100	icon_skills.vowofprotection_tex	Restorative Pledge of Protection	icon_crest.e_crestactivehprecoveryup_tex	Increases amount of caster's HP recovery by 20% for 20 seconds.
 22037	Guardian Shout	70100	icon_skills.inspiringroar_tex	Energetic Guardian Shout	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 22038	Menacing Wave	200100	icon_skills.menacewave_tex	Lingering Menacing Wave	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
@@ -126,38 +133,45 @@
 22048	Combo Attack	10100	icon_skills.comboattack_tex	Threatening Combo Attack	icon_crest.e_crestpassiveaggroup_tex	Provides 5% additional aggro.
 22049	Challenging Shout	40100	icon_skills.roar_tex	Brilliant Challenging Shout	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 60.
 22050	Lockdown Blow	210100	icon_skills.shockblow_tex	Slowing Lockdown Blow	icon_crest.e_crestpassiveskilleffectup_tex	Decreases opponent's movement speed by an additional 30%.
-22051	Onslaught	30100	icon_skills.screwthrough_tex	Brilliant Onslaught	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
+22051	Onslaught	30100	icon_skills.screwthrough_tex	Brilliant Onslaught	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 250.
 22052	Guardian Shout	70100	icon_skills.inspiringroar_tex	Energetic Guardian Shout	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 35%.
 22053	Infuriate	120100	icon_skills.provokerage_tex	Slowing Infuriate	icon_crest.e_crestpassivespeeddown_tex	Decrease opponent's speed by 50% for 5 seconds.
-22054	Leash	90100	icon_skills.hookthrow_tex	Numbing Leash	icon_crest.e_crestpassivetargetspeeddown_tex	Decrease opponent's attack speed by 40% for 4 seconds.
+22054	Leash	90100	icon_skills.hookthrow_tex	Numbing Leash	icon_crest.e_crestpassivetargetspeeddown_tex	Decrease opponent's Attack Speed by 40% for 4 seconds.
 22055	Leash	90100	icon_skills.hookthrow_tex	Threatening Leash	icon_crest.e_crestpassiveaggroup_tex	Provides 30% additional aggro.
 22056	Challenging Shout	40100	icon_skills.roar_tex	Hastened Challenging Shout	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%.
-22057	Challenging Shout	40100	icon_skills.roar_tex	Grounded Challenging Shout	icon_crest.e_crestactivedefenceup_tex	Increases endurance by 21 upon successful hit.
-22058	Onslaught	30100	icon_skills.screwthrough_tex	Carving Onslaught	icon_crest.e_crestpassivecriticalup_tex	Doubles crit rate.
+22057	Challenging Shout	40100	icon_skills.roar_tex	Grounded Challenging Shout	icon_crest.e_crestactivedefenceup_tex	Increases Endurance by 21 upon successful hit.
+22058	Onslaught	30100	icon_skills.screwthrough_tex	Keen Onslaught	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor.
 22059	Lockdown Blow	210100	icon_skills.shockblow_tex	Threatening Lockdown Blow	icon_crest.e_crestpassiveaggroup_tex	Provides 50% additional aggro.
 22060	Chained Leash	240100	icon_skills.harpoonshot_tex	Energetic Chained Leash	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 22061	Chained Leash	240100	icon_skills.harpoonshot_tex	Lingering Chained Leash	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-22062	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20%.
+22062	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20%.
 22063	Shield Counter	80100	icon_skills.riposte_tex	Threatening Shield Counter	icon_crest.e_crestpassiveaggroup_tex	Provides 100% additional aggro.
 22064	Shield Barrage	180100	icon_skills.shieldattack_tex	Threatening Shield Barrage	icon_crest.e_crestpassiveaggroup_tex	Provides 200% additional aggro.
-22065	Spring Attack	130100	icon_skills.leaprampage_tex	Numbing Spring Attack	icon_crest.e_crestactiveattackspeeddown_tex	30% chance to decrease opponent's attack speed by 30% for 7 seconds.
+22065	Spring Attack	130100	icon_skills.leaprampage_tex	Numbing Spring Attack	icon_crest.e_crestactiveattackspeeddown_tex	30% chance to decrease opponent's Attack Speed by 30% for 7 seconds.
 22066	Wallop	250100	icon_skills.overhelm_tex	Empowered Wallop	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-22067	Backstep	260100	icon_skills.backstep_tex	Energetic Backstep	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+22067	Backstep	260100	icon_skills.backstep_tex	Unending Backstep	icon_crest.e_crestpassivecooltimedown_tex	Decreases RE cost by 100. 
 22068	Challenging Shout	40100	icon_skills.roar_tex	Hearty Challenging Shout	icon_crest.e_creststrecover_tex	Increases resolve regeneration by 30%.
 22069	Shield Counter	80100	icon_skills.riposte_tex	Hearty Shield Counter	icon_crest.e_creststrecover_tex	Increases resolve regeneration by 50%.
 22070	Second Wind	160100	icon_skills.rejuvenation_tex	Hearty Second Wind	icon_crest.e_creststrecover_tex	Restores 20% more resolve.
 22071	Stand Fast 	20100	icon_skills.defence_tex	Reinforced Stand Fast	icon_crest.e_creststrecover_tex	Increases Max resolve by 500.
+22072	Front Defense	270100	icon_skills.holdtheline_tex	Energetic Rallying Cry	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+22073	Front Defense	270100	icon_skills.holdtheline_tex	Lingering Rallying Cry	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
+22074	Front Defense	270100	icon_skills.holdtheline_tex	Brilliant Rallying Cry	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
+22075	Front Defense	270100	icon_skills.holdtheline_tex	Threatening Rallying Cry	icon_crest.e_crestpassiveaggroup_tex	Provides 100% additional aggro.
+22076	Front Defense	270100	icon_skills.holdtheline_tex	Threatening Rallying Cry	icon_crest.e_crestpassiveaggroup_tex	Provides 100% additional aggro.
+22077	Front Defense	270100	icon_skills.holdtheline_tex	Lingering Rallying Cry	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
+22078	Front Defense	270100	icon_skills.holdtheline_tex	Energetic Rallying Cry	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 23000	Evasive Roll	40100	icon_skills.tumbling_tex	Fleetfooted Evasive Roll	icon_crest.e_crestactivespeedup_tex	30% chance to increase movement speed 15% for 10 seconds.
-23001	Combo Attack	10100	icon_skills.comboattack_tex	Swift Combo Attack	icon_crest.e_crestactiveattackspeedup_tex	10% chance to increase attack speed 15% for 10 seconds.
+23001	Combo Attack	10100	icon_skills.comboattack_tex	Swift Combo Attack	icon_crest.e_crestactiveattackspeedup_tex	10% chance to increase Attack Speed 15% for 10 seconds.
 23002	Combo Attack	10100	icon_skills.comboattack_tex	Empowered Combo Attack	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 23003	Overpower	180100	icon_skills.gatheringstrength_tex	Brilliant Overpower	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 33.
 23004	Knockdown Strike	20100	icon_skills.handyslash_tex	Empowered Knockdown Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 23005	Retaliate	100100	icon_skills.risingattack_tex	Empowered Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-23007	Knockdown Strike	20100	icon_skills.handyslash_tex	Powerlinked Knockdown Strike	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Whirlwind.
-23008	Retaliate	100100	icon_skills.risingattack_tex	Powerlinked Retaliate	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Leaping Strike.
+23007	Knockdown Strike	20100	icon_skills.handyslash_tex	Powerlinked Knockdown Strike	icon_crest.e_crestnextskillattackup_tex	Increases damage of Whirlwind by 25% for a few seconds.
+23008	Retaliate	100100	icon_skills.risingattack_tex	Powerlinked Retaliate	icon_crest.e_crestnextskillattackup_tex	Increases damage of Leaping Strike by 25% for a few seconds.
 23009	Overhand Strike	80100	icon_skills.cuttingslash_tex	Persistent Overhand Strike	icon_crest.e_crestactivecooltimereset_tex	50% chance to eliminate cooldown.
-23010	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 10%.
-23011	Triumphant Shout	70100	icon_skills.shout_tex	Spirited Triumphant Shout	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 50%.
+23010	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 10%.
+23011	Triumphant Shout	70100	icon_skills.shout_tex	Spirited Triumphant Shout	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 50%.
 23012	Whirlwind	30100	icon_skills.sworddance_tex	Brilliant Whirlwind	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 63.
 23013	Dash	50100	icon_skills.dash_tex	Energetic Dash	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 23014	Backstab	60100	icon_skills.turnaroundattack_tex	Energetic Backstab	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
@@ -170,64 +184,70 @@
 23021	Distant Blade	140100	icon_skills.tripleslash_tex	Brilliant Distant Blade	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 18.
 23022	Startling Kick	150100	icon_skills.retreatingkick_tex	Brilliant Startling Kick	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 30.
 23023	Retaliate	100100	icon_skills.risingattack_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-23024	Overhand Strike	80100	icon_skills.cuttingslash_tex	Restorative Overhand Strike	icon_crest.e_crestpassivehpheal_tex	Immediately restores 3% HP.
+23024	Overhand Strike	80100	icon_skills.cuttingslash_tex	Brilliant Overhand Strike	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 70.
 23025	Tenacity	190100	icon_skills.tenacity_tex	Energetic Tenacity	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 23026	Exhausting Blow	210100	icon_skills.veinslash_tex	Empowered Exhausting Blow	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 23027	In Cold Blood	200100	icon_skills.destructionvigor_tex	Brilliance In Cold Blood	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 50.
 23028	Heart Thrust	120100	icon_skills.stingerblade_tex	Persistent Heart Thrust	icon_crest.e_crestactivecooltimereset_tex	35% chance to eliminate cooldown.
-23029	Triumphant Shout	70100	icon_skills.shout_tex	Grounded Triumphant Shout	icon_crest.e_crestactivedefenceup_tex	Increases endurance by 20% for 10 seconds.
-23030	Backstab	60100	icon_skills.turnaroundattack_tex	Blazing Backstab	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Heart Thrust, the next skill in the chain.
-23031	Backstab	60100	icon_skills.turnaroundattack_tex	Blazing Backstab	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Knockdown Strike, the next skill in the chain.
-23032	Fury Strike	160100	icon_skills.ragingstrike_tex	Blazing Fury Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Whirlwind, the next skill in the chain.
-23033	Fury Strike	160100	icon_skills.ragingstrike_tex	Restorative Fury Strike	icon_crest.e_crestnextskillhpheal_tex	Immediately restores 4% of total HP for the next chain skill: Stunning Backhand.
+23029	Triumphant Shout	70100	icon_skills.shout_tex	Grounded Triumphant Shout	icon_crest.e_crestactivedefenceup_tex	Increases Endurance by 20% for 10 seconds.
+23030	Backstab	60100	icon_skills.turnaroundattack_tex	Blazing Backstab	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Heart Thrust by 25% for a few seconds.
+23031	Backstab	60100	icon_skills.turnaroundattack_tex	Blazing Backstab	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Knockdown Strike by 25% for a few seconds.
+23032	Fury Strike	160100	icon_skills.ragingstrike_tex	Blazing Fury Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Whirlwind by 25% for a few seconds.
+23033	Fury Strike	160100	icon_skills.ragingstrike_tex	Restorative Fury Strike	icon_crest.e_crestnextskillhpheal_tex	Immediately restores 4% of total HP when you follow up with Stunning Backhand.
 23034	Exhausting Blow	210100	icon_skills.veinslash_tex	Energetic Exhausting Blow	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 23035	Distant Blade	140100	icon_skills.tripleslash_tex	Numbing Distant Blade	icon_crest.e_crestactiveattackspeeddown_tex	20% chance to decrease opponent's attack speed by 15% for 5 seconds.
 23036	Tenacity	190100	icon_skills.tenacity_tex	Balancing Tenacity	icon_crest.e_crestactivereactionresist_tex	Increases balance by 50% for 15 seconds.
-23037	In Cold Blood	200100	icon_skills.destructionvigor_tex	Blazing In Cold Blood	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Heart Thrust, the next skill in the chain.
+23037	In Cold Blood	200100	icon_skills.destructionvigor_tex	Blazing In Cold Blood	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Heart Thrust by 25% for a few seconds.
 23038	Evasive Roll	40100	icon_skills.tumbling_tex	Persistent Evasive Roll	icon_crest.e_crestactivecooltimereset_tex	20% chance to eliminate cooldown.
-23039	Evasive Roll	40100	icon_skills.tumbling_tex	Powerlinked Evasive Roll	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Fury Strike.
-23040	Knockdown Strike	20100	icon_skills.handyslash_tex	Powerlinked Knockdown Strike	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Overhand Strike.
-23041	Knockdown Strike	20100	icon_skills.handyslash_tex	Strengthened Knockdown Strike	icon_crest.e_crestpassivereactionup_tex	Increases chance of knockdown and stun by 20%.
+23039	Evasive Roll	40100	icon_skills.tumbling_tex	Powerlinked Evasive Roll	icon_crest.e_crestnextskillattackup_tex	Increases damage of Fury Strike by 25% for a few seconds.
+23040	Knockdown Strike	20100	icon_skills.handyslash_tex	Powerlinked Knockdown Strike	icon_crest.e_crestnextskillattackup_tex	Increases damage of Overhand Strike by 20% for a few seconds.
+23041	Knockdown Strike	20100	icon_skills.handyslash_tex	Defensive Knockout Strike	icon_crest.e_crestpassivereactionup_tex	During skill use, reduces damage taken by 50%
 23042	Startling Kick	150100	icon_skills.retreatingkick_tex	Lingering Startling Kick	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
-23043	Startling Kick	150100	icon_skills.retreatingkick_tex	Blazing Startling Kick	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Heart Thrust, the next skill in the chain.
-23044	Startling Kick	150100	icon_skills.retreatingkick_tex	Blazing Startling Kick	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Knockdown Strike, the next skill in the chain.
+23043	Startling Kick	150100	icon_skills.retreatingkick_tex	Blazing Startling Kick	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Heart Thrust by 25% for a few seconds.
+23044	Startling Kick	150100	icon_skills.retreatingkick_tex	Blazing Startling Kick	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Knockdown Strike by 25% for a few seconds.
 23046	Overhand Strike	80100	icon_skills.cuttingslash_tex	Persistent Overhand Strike	icon_crest.e_crestactivecooltimereset_tex	50% chance to eliminate cooldown.
 23047	Knockdown Strike	20100	icon_skills.handyslash_tex	Empowered Knockdown Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 23048	Stunning Backhand	130100	icon_skills.flatblade_tex	Empowered Stunning Backhand	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-23049	Overhand Strike	80100	icon_skills.cuttingslash_tex	Restorative Overhand Strike	icon_crest.e_crestpassivehpheal_tex	Immediately restores 3% HP.
+23049	Overhand Strike	80100	icon_skills.cuttingslash_tex	Brilliant Overhand Strike	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 70.
 23050	Combo Attack	10100	icon_skills.comboattack_tex	Swift Combo Attack	icon_crest.e_crestactiveattackspeedup_tex	10% chance to increase attack speed 15% for 10 seconds.
 23051	Exhausting Blow	210100	icon_skills.veinslash_tex	Energetic Exhausting Blow	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 35%.
 23052	Tenacity	190100	icon_skills.tenacity_tex	Balancing Tenacity	icon_crest.e_crestactivereactionresist_tex	Doubles balance for 15 seconds.
 23053	Tenacity	190100	icon_skills.tenacity_tex	Energetic Tenacity	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
-23054	Backstab	60100	icon_skills.turnaroundattack_tex	Blazing Backstab	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 35% for Heart Thrust, the next skill in the chain.
-23055	Whirlwind	30100	icon_skills.sworddance_tex	Carving Whirlwind	icon_crest.e_crestpassivecriticalup_tex	Triples crit rate.
-23056	Evasive Roll	40100	icon_skills.tumbling_tex	Powerlinked Evasive Roll	icon_crest.e_crestpassiveattackup_tex	Increases attack power for the next chain skill by 25%: Backstab
-23057	Heart Thrust	120100	icon_skills.stingerblade_tex	Carving Heart Thrust	icon_crest.e_crestpassivecriticalup_tex	Triples crit rate.
-23058	Overpower	180100	icon_skills.gatheringstrength_tex	Carving Overpower	icon_crest.e_crestpassivecriticalup_tex	Doubles crit rate for the next attack.
+23054	Backstab	60100	icon_skills.turnaroundattack_tex	Blazing Backstab	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Heart Thrust by 35% for a few seconds.
+23055	Whirlwind	30100	icon_skills.sworddance_tex	Keen Whirlwind	icon_crest.e_crestpassivecriticalup_tex	Triples Crit Factor.
+23056	Evasive Roll	40100	icon_skills.tumbling_tex	Powerlinked Evasive Roll	icon_crest.e_crestpassiveattackup_tex	Increases damage of Backstab by 25% for a few seconds.
+23057	Heart Thrust	120100	icon_skills.stingerblade_tex	Keen Heart Thrust	icon_crest.e_crestpassivecriticalup_tex	Triples Crit Factor.
+23058	Overpower	180100	icon_skills.gatheringstrength_tex	Keen Overpower	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor for the next attack.
 23059	Overpower	180100	icon_skills.gatheringstrength_tex	Boosted Overpower	icon_crest.e_crestpassiveattackup_tex	Adds 10% skill damage to the next attack.
 23060	Startling Kick	150100	icon_skills.retreatingkick_tex	Swift Startling Kick	icon_crest.e_crestpassiveskillspeedup_tex	Increases attack speed of Startling Kick by 25%.
-23061	Measured Slice	230100	icon_skills.cuthead_tex	Carving Measured Slice	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance of a critical hit.
+23061	Measured Slice	230100	icon_skills.cuthead_tex	Keen Measured Slice	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor.
 23062	Measured Slice	230100	icon_skills.cuthead_tex	Empowered Measured Slice	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 23063	Fury Strike	160100	icon_skills.ragingstrike_tex	Empowered Fury Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 23064	Backstab	60100	icon_skills.turnaroundattack_tex	Energetic Backstab	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 23065	Distant Blade	140100	icon_skills.tripleslash_tex	Numbing Distant Blade	icon_crest.e_crestactiveattackspeeddown_tex	30% chance to decrease opponent's attack speed by 15% for 5 seconds.
-23066	Headlong Rush	170100	icon_skills.advancingleap_tex	Powerlinked Headlong Rush	icon_crest.e_crestpassiveattackup_tex	Increases skill damage for the next chain skill by 25%: Knockdown Strike.
-24000	Axe Block	20100	icon_skills.weapondefence_tex	Mindsparked Axe Block	icon_crest.e_crestpassivempheal_tex	Restores 3% of MP on a successful block.
-24001	Axe Block	20100	icon_skills.weapondefence_tex	Pumped Axe Block	icon_crest.e_crestactiveattackup_tex	30% chance to increase power by 20% for 5 seconds on a successful block.
-24002	Thunder Strike	30100	icon_skills.blastslash_tex	Carving Thunder Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles crit chance.
-24003	Cyclone	100100	icon_skills.whirlwind_tex	Carving Cyclone	icon_crest.e_crestpassivecriticalup_tex	Doubles crit chance.
-24004	Combo Attack	10100	icon_skills.comboattack_tex	Carving Combo Attack	icon_crest.e_crestpassivecriticalup_tex	Increases crit chance by 10%.
+23066	Headlong Rush	170100	icon_skills.advancingleap_tex	Powerlinked Headlong Rush	icon_crest.e_crestpassiveattackup_tex	Increases damage of Knockdown Strike by 25% for a few seconds.
+23067	Eviscerate	220100	icon_skills.jawbreaker_tex	Empowered Eviscerate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+23068	Eviscerate	220100	icon_skills.jawbreaker_tex	Empowered Eviscerate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+23069	Eviscerate	220100	icon_skills.jawbreaker_tex	Powerlinked Overhand Strike	icon_crest.e_crestnextskillattackup_tex	Increases damage of Overhand Strike by 25% for a few seconds.
+23070	Eviscerate	220100	icon_skills.jawbreaker_tex	Energetic Eviscerate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+23071	Eviscerate	220100	icon_skills.jawbreaker_tex	Powerlinked Eviscerate	icon_crest.e_crestnextskillattackup_tex	Increases damage of Measured Slice by 25% for a few seconds
+23072	Tenacity	190100	icon_skills.tenacity_tex	Spirited Tenacity	icon_crest.e_crestpassivepartympup_tex	50% chance to replenish 6% of your total MP every second.
+24000	Axe Block	20100	icon_skills.weapondefence_tex	Mindsparked Axe Block	icon_crest.e_crestpassivempheal_tex	Replenishes 3% of MP on a successful block.
+24001	Axe Block	20100	icon_skills.weapondefence_tex	Pumped Axe Block	icon_crest.e_crestactiveattackup_tex	30% chance to increase Power by 20% for 5 seconds on a successful block.
+24002	Thunder Strike	30100	icon_skills.blastslash_tex	Carving Thunder Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
+24003	Cyclone	100100	icon_skills.whirlwind_tex	Carving Cyclone	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
+24004	Combo Attack	10100	icon_skills.comboattack_tex	Carving Combo Attack	icon_crest.e_crestpassivecriticalup_tex	Increases Crit Factor by 90%.
 24005	Thunder Strike	30100	icon_skills.blastslash_tex	Slick Thunder Strike	icon_crest.e_crestpassivepenaltydelete_tex	Eliminates slowed movement restriction.
-24006	Cyclone	100100	icon_skills.whirlwind_tex	Empowered Cyclone	icon_crest.e_crestpassiveattackup_tex	Increases additional over-charge damage by 12%.
-24007	Thunder Strike	30100	icon_skills.blastslash_tex	Sanative Thunder Strike	icon_crest.e_crestpassivehpdown_tex	Decreases HP consumption by 50% when over-charged.
+24006	Cyclone	100100	icon_skills.whirlwind_tex	Empowered Cyclone	icon_crest.e_crestpassiveattackup_tex	Increases additional overcharge damage by 12%.
+24007	Thunder Strike	30100	icon_skills.blastslash_tex	Sanative Thunder Strike	icon_crest.e_crestpassivehpdown_tex	Decreases HP consumption by 50% when overcharged.
 24008	Flatten	40100	icon_skills.bash_tex	Swift Flatten	icon_crest.e_crestpassiveskillspeedup_tex	Increases attack speed of Flatten by 25%.
 24009	Cyclone	100100	icon_skills.whirlwind_tex	Hastened Cyclone	icon_crest.e_crestpassiveskillspeedup_tex	Increases charging speed by 25%.
 24010	Mocking Shout	70100	icon_skills.shockingshout_tex	Hastened Mocking Shout	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 50%.
-24011	Fiery Rage	80100	icon_skills.berserk_tex	Pumped Fiery Rage	icon_crest.e_crestactiveattackup_tex	30% chance to increase power by additional 10% for 20 seconds.
-24012	Staggering Strike	60100	icon_skills.turnback_tex	Influential Staggering Strike	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost by 63 for the next chain skill: Flatten.
+24011	Fiery Rage	80100	icon_skills.berserk_tex	Pumped Fiery Rage	icon_crest.e_crestactiveattackup_tex	30% chance to increase Power by additional 10% for 20 seconds.
+24012	Staggering Strike	60100	icon_skills.turnback_tex	Influential Staggering Strike	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Flatten by 63 for a few seconds.
 24013	Flatten	40100	icon_skills.bash_tex	Empowered Flatten	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-24015	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 15%.
-24016	Triumphant Shout	90100	icon_skills.shout_tex	Spirited Triumphant Shout	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 50%.
+24015	Combo Attack	10100	icon_skills.comboattack_tex	Spirited Combo Attack	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 15%.
+24016	Triumphant Shout	90100	icon_skills.shout_tex	Spirited Triumphant Shout	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 50%.
 24017	Unchained Anger	120100	icon_skills.vitalconversion_tex	Sanative Unchained Anger	icon_crest.e_crestpassivehpdown_tex	Decreases HP consumption by 50%.
 24018	Dash	50100	icon_skills.dash_tex	Energetic Dash	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 24019	Retaliate	130100	icon_skills.risingattack_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
@@ -241,24 +261,24 @@
 24028	Bloodlust	210100	icon_skills.fury_tex	Brilliant Bloodlust	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
 24029	Tenacity	190100	icon_skills.tenacity_tex	Energetic Tenacity	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 24030	Inescapable Doom	200100	icon_skills.murderousvent_tex	Energetic Inescapable Doom	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-24031	Triumphant Shout	90100	icon_skills.shout_tex	Influential Triumphant Shout	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost by 75 for the next chain skill: Dash.
+24031	Triumphant Shout	90100	icon_skills.shout_tex	Influential Triumphant Shout	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Dash by 75 for a few seconds.
 24032	Lethal Strike	180100	icon_skills.soulstrike_tex	Empowered Lethal Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-24033	Inescapable Doom	200100	icon_skills.murderousvent_tex	Influential Inescapable Doom	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 63: Flatten.
+24033	Inescapable Doom	200100	icon_skills.murderousvent_tex	Influential Inescapable Doom	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Flatten by 63 for a few seconds.
 24034	Mocking Shout	70100	icon_skills.shockingshout_tex	Test	icon_skills.voidtrap_tex	No Effect
-24035	Mocking Shout	70100	icon_skills.shockingshout_tex	Powerlinked Mocking Shout	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Staggering Strike.
+24035	Mocking Shout	70100	icon_skills.shockingshout_tex	Powerlinked Mocking Shout	icon_crest.e_crestnextskillattackup_tex	Increases damage of Staggering Strike by 25% for a few seconds.
 24036	Unchained Anger	120100	icon_skills.vitalconversion_tex	Strengthened Unchained Anger	icon_crest.e_crestactivereactionup_tex	Increases knockdown by 10% for 20 seconds.
 24037	Unchained Anger	120100	icon_skills.vitalconversion_tex	Raging Unchained Anger	icon_crest.e_crestactiveinvokeskill_tex	25% chance to activate Flurry of Blows I.
 24038	Fiery Rage	80100	icon_skills.berserk_tex	Fleetfooted Fiery Rage	icon_crest.e_crestactivespeedup_tex	Increases combat movement speed by 20 for 15 seconds.
-24039	Fearsome Shout	160100	icon_skills.piercingshout_tex	Powerlinked Fearsome Shout	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Staggering Strike.
+24039	Fearsome Shout	160100	icon_skills.piercingshout_tex	Powerlinked Fearsome Shout	icon_crest.e_crestnextskillattackup_tex	Increases damage of Staggering Strike by 25% for a few seconds.
 24040	Leaping Strike	110100	icon_skills.downattack_tex	Persistent Leaping Strike	icon_crest.e_crestactivecooltimereset_tex	30% chance to eliminate cooldown.
 24041	Inescapable Doom	200100	icon_skills.murderousvent_tex	Lingering Inescapable Doom	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
-24042	Inescapable Doom	200100	icon_skills.murderousvent_tex	Blazing Inescapable Doom	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Flatten, the next skill in the chain.
+24042	Inescapable Doom	200100	icon_skills.murderousvent_tex	Blazing Inescapable Doom	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Flatten by 25% for a few seconds.
 24043	Inescapable Doom	200100	icon_skills.murderousvent_tex	Test	icon_skills.voidtrap_tex	No Effect
 24044	Tenacity	190100	icon_skills.tenacity_tex	Balancing Tenacity	icon_crest.e_crestactivereactionresist_tex	Increases balance by 50% for 15 seconds.
 24045	Lethal Strike	180100	icon_skills.soulstrike_tex	Slick Lethal Strike	icon_crest.e_crestpassivepenaltydelete_tex	Eliminates slowed movement restriction.
-24046	Leaping Strike	110100	icon_skills.downattack_tex	Blazing Leaping Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 30% for Lethal Strike, the next skill in the chain.
-24047	Staggering Strike	60100	icon_skills.turnback_tex	Blazing Staggering Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds charging by 30% for Thunder Strike, the next skill in the chain.
-24048	Thunder Strike	30100	icon_skills.blastslash_tex	Carving Thunder Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles crit chance.
+24046	Leaping Strike	110100	icon_skills.downattack_tex	Blazing Leaping Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Lethal Strike by 30% for a few seconds.
+24047	Staggering Strike	60100	icon_skills.turnback_tex	Blazing Staggering Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds charging by 30% for Thunder Strike for a few seconds.
+24048	Thunder Strike	30100	icon_skills.blastslash_tex	Carving Thunder Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
 24049	Thunder Strike	30100	icon_skills.blastslash_tex	Slick Thunder Strike	icon_crest.e_crestpassivepenaltydelete_tex	Eliminates slowed movement restriction.
 24050	Flatten	40100	icon_skills.bash_tex	Swift Flatten	icon_crest.e_crestpassiveskillspeedup_tex	Increases attack speed of Flatten by 25%.
 24051	Thunder Strike	30100	icon_skills.blastslash_tex	Sanative Thunder Strike	icon_crest.e_crestpassivehpdown_tex	Decreases HP consumption by 50%.
@@ -266,86 +286,107 @@
 24053	Flatten	40100	icon_skills.bash_tex	Empowered Flatten	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 24054	Tenacity	190100	icon_skills.tenacity_tex	Balancing Tenacity	icon_crest.e_crestactivereactionresist_tex	Doubles balance for 15 seconds.
 24055	Mocking Shout	70100	icon_skills.shockingshout_tex	Hastened Mocking Shout	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 50%.
-24056	Inescapable Doom	200100	icon_skills.murderousvent_tex	Blazing Inescapable Doom	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 30% for Flatten, the next skill in the chain.
-24057	Triumphant Shout	90100	icon_skills.shout_tex	Grounded Triumphant Shout	icon_crest.e_crestactivedefenceup_tex	Increases endurance by 16 for 12 seconds.
+24056	Inescapable Doom	200100	icon_skills.murderousvent_tex	Blazing Inescapable Doom	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Flatten by 30% for a few seconds.
+24057	Triumphant Shout	90100	icon_skills.shout_tex	Grounded Triumphant Shout	icon_crest.e_crestactivedefenceup_tex	Increases Endurance by 16 for 12 seconds.
 24058	Dash	50100	icon_skills.dash_tex	Persistent Dash	icon_crest.e_crestactivecooltimereset_tex	35% chance to eliminate cooldown.
-24059	Leaping Strike	110100	icon_skills.downattack_tex	Carving Leaping Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles crit rate.
+24059	Leaping Strike	110100	icon_skills.downattack_tex	Keen Leaping Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor.
 24060	Tenacity	190100	icon_skills.tenacity_tex	Restorative Tenacity	icon_crest.e_crestpassivehpheal_tex	Immediately restores 12% of your total HP.
-24061	Tenacity	190100	icon_skills.tenacity_tex	Spirited Tenacity	icon_crest.e_crestpassivemprecoveryup_tex	50% chance to regenerate 6% of your total MP every second.
-24062	Retaliate	130100	icon_skills.risingattack_tex	Furious Retaliate	icon_crest.e_crestpassivehpattackup_tex	As your HP decreases, your skill damage increases (up to 4 times).
+24061	Tenacity	190100	icon_skills.tenacity_tex	Spirited Tenacity	icon_crest.e_crestpassivemprecoveryup_tex	50% chance to replenish 6% of your total MP every second.
+24062	Retaliate	130100	icon_skills.risingattack_tex	Furious Retaliate	icon_crest.e_crestpassivehpattackup_tex	Increases your damage as your HP decreases (up to 4 times).
 24063	Evasive Smash	240100	icon_skills.ribbreaker_tex	Empowered Evasive Smash	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-24064	Evasive Smash	240100	icon_skills.ribbreaker_tex	Carving Evasive Smash	icon_crest.e_crestpassivecriticalup_tex	Doubles critical chance.
+24064	Evasive Smash	240100	icon_skills.ribbreaker_tex	Carving Evasive Smash	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
 24065	Axe Block	20100	icon_skills.weapondefence_tex	Mindsparked Axe Block	icon_crest.e_crestpassivemprecoveryup_tex	Restores 3% of MP on a successful block.
-24066	Cyclone	100100	icon_skills.whirlwind_tex	Carving Cyclone	icon_crest.e_crestpassivecriticalup_tex	Doubles critical chance.
+24066	Cyclone	100100	icon_skills.whirlwind_tex	Carving Cyclone	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
 24067	Thunder Strike	30100	icon_skills.blastslash_tex	Swift Thunder Strike	icon_crest.e_crestnextskillattackspeedup_tex	Increases charging speed by 25%.
 24068	Staggering Strike	60100	icon_skills.turnback_tex	Persistent Staggering Strike	icon_crest.e_crestactivecooltimereset_tex	35% chance to eliminate cooldown.
+24069	Unbreakable	270100	icon_skills.selfbuff_tex	Energetic Unbreakable	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+24070	Unbreakable	270100	icon_skills.selfbuff_tex	Energetic Unbreakable	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+24071	Unbreakable	270100	icon_skills.selfbuff_tex	Lingering Unbreakable	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 20%.
+24072	Raze	230100	icon_skills.sideslash_tex	Blazing Thunder Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Thunder Strike by 25% for a few seconds.
+24073	Raze	230100	icon_skills.sideslash_tex	Spirited Raze	icon_crest.e_crestpassivempdown_tex	Increases MP replenishment by 20%.
+24074	Raze	230100	icon_skills.sideslash_tex	Energetic Raze	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+24075	Tackle	220100	icon_skills.throwaxe_tex	Brilliant Tackle	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
+24076	Tackle	220100	icon_skills.throwaxe_tex	Fleetfooted Tackle	icon_crest.e_crestpassivechargemove_tex	Increases combat movement speed by 20 for 15 seconds.
+24077	Tackle	220100	icon_skills.throwaxe_tex	Keen Tackle	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor.
+24078	Raze	230100	icon_skills.sideslash_tex	Swift Raze	icon_crest.e_crestpassiveaggroup_tex	Increases casting speed by 25%.
+24080	Axe Block	20100	icon_skills.weapondefence_tex	Powerlinked Axe Block	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for Axe Counter by 25%.
+24081	Axe Block	20100	icon_skills.weapondefence_tex	Influential Axe Block	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for Axe Counter by 115
+24082	Axe Counter	300100	icon_skills.determinationofadvance_tex	Threatening Axe Counter	icon_crest.e_crestpassiveaggroup_tex	Provides 100% additional aggro.
+24083	Punishing Strike	320100	icon_skills.upperslashcombo_tex	Brilliant Punishing Strike	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 25.
+24084	Punishing Strike	320100	icon_skills.upperslashcombo_tex	Threatening Punishing Strike	icon_crest.e_crestpassiveaggroup_tex	Provides 100% additional aggro.
+24085	Evasive Roll	290100	icon_skills.tumbling_tex	Energetic Evasive Roll	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+24086	Fiery Rage	80100	icon_skills.berserk_tex	Threatening Fiery Rage	icon_crest.e_crestpassiveaggroup_tex	Provides 20% additional aggro.
+24087	Fiery Rage	80100	icon_skills.berserk_tex	Brilliant Fiery Rage	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 60.
+24088	Overwhelm	310100	icon_skills.assaultattack_tex	Empowered Overwhelm	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+24089	Unchained Anger	120100	icon_skills.vitalconversion_tex	Energetic Unchanged Anger	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+24090	Overwhelm	310100	icon_skills.assaultattack_tex	Energetic Overwhelm	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+24091	Overwhelm	310100	icon_skills.assaultattack_tex	Fleetfooted Overwhelm	icon_crest.e_crestactivespeedup_tex	Speeds movement by 10 for 7 seconds while in combat.
 25000	Fireball	10100	icon_skills.fireball_tex	Longshot Fireball	icon_crest.e_crestpassiverangeup_tex	Increases range by 3 meters.
 25001	Backstep	70100	icon_skills.backstep_tex	Indignant Backstep	icon_crest.e_crestactiveinvokeskill_tex	20% chance to trigger Overchannel.
 25003	Fireblast	60100	icon_skills.hellfire_tex	Hastened Fireblast	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 17%.
-25004	Mana Barrier	100100	icon_skills.manashield_tex	Pumped Mana Barrier	icon_crest.e_crestactiveattackup_tex	Increases skill damage by 10% for 15 seconds.
-25005	Mana Barrier	100100	icon_skills.manashield_tex	Grounded Mana Barrier	icon_crest.e_crestactivedefenceup_tex	Increases endurance by 20% for 15 seconds.
-25006	Lightning Trap	30100	icon_skills.shocktrap_tex	Powerlinked Lightning Trap	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Fireblast.
-25009	Mana Infusion	50100	icon_skills.mpcondensing_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 10%.
+25004	Mana Barrier	100100	icon_skills.manashield_tex	Pumped Mana Barrier	icon_crest.e_crestactiveattackup_tex	Increases Power by 10% for 15 seconds.
+25005	Mana Barrier	100100	icon_skills.manashield_tex	Grounded Mana Barrier	icon_crest.e_crestactivedefenceup_tex	Increases Endurance by 20% for 15 seconds.
+25006	Lightning Trap	30100	icon_skills.shocktrap_tex	Powerlinked Lightning Trap	icon_crest.e_crestnextskillattackup_tex	Increases damage of Fireblast by 20% for a few seconds.
+25009	Mana Infusion	50100	icon_skills.mpcondensing_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 10%.
 25010	Overchannel	90100	icon_skills.kicharge_tex	Energetic Overchannel	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
 25011	Mana Barrier	100100	icon_skills.manashield_tex	Energetic Mana Barrier	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25012	Void Pulse	120100	icon_skills.lightofruin_tex	Energetic Void Pulse	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25013	Ice Needle	20100	icon_skills.icicle_tex	Energetic Ice Needle	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
 25014	Lightning Trap	30100	icon_skills.shocktrap_tex	Brilliant Lightning Trap	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 100.
 25015	Void Pulse	120100	icon_skills.lightofruin_tex	Brilliant Void Pulse	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 250.
-25016	Arcane Pulse	40100	icon_skills.blastball_tex	Empowered Arcane Pulse	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 25017	Fireblast	60100	icon_skills.hellfire_tex	Brilliant Fireblast	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 250.
 25018	Painblast	160100	icon_skills.disease_tex	Lingering Painblast	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 40%.
 25019	Flame Pillar	80100	icon_skills.auraburn_tex	Empowered Flame Pillar	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-25021	Mana Extraction			Past Glyph Shard	icon_skills.voidtrap_tex	This old, fragmented glyph is no longer used.
+25021	Mana Extraction	0		Past Glyph Shard	icon_skills.voidtrap_tex	This old fragmented glyph is no longer used.
 25022	Mindblast	130100	icon_skills.sleepwind_tex	Lingering Mindblast	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 25%.
-25023	Mana Siphon	190100	icon_skills.manaextortion_tex	Spirited Mana Siphon	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 10%.
+25023	Mana Siphon	190100	icon_skills.manaextortion_tex	Spirited Mana Siphon	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 10%.
 25025	Flaming Barrage	200100	icon_skills.trackinginferno_tex	Brilliant Flaming Barrage	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
 25026	Magma Bomb	110100	icon_skills.howitzer_tex	Brilliant Magma Bomb	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 100.
 25027	Painful Trap	170100	icon_skills.blastmine_tex	Brilliant Painful Trap	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 75.
 25028	Glacial Retreat	180100	icon_skills.freezingtheearth_tex	Lingering Glacial Retreat	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 40%.
-25029	Arcane Pulse	40100	icon_skills.blastball_tex	Powerlinked Arcane Pulse	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Ice Needle.
-25030	Painful Trap	170100	icon_skills.blastmine_tex	Influential Painful Trap	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 80: Flame Pillar.
+25029	Mythical Grace	40100	new_icon_skills.240032	Frostened Mythical Grace	icon_crest.e_crestnextskillattackup_tex	Increases damage of Ice Needle by 25% for a few seconds.
+25030	Painful Trap	170100	icon_skills.blastmine_tex	Influential Painful Trap	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Flame Pillar by 80 for a few seconds.
 25031	Glacial Retreat	180100	icon_skills.freezingtheearth_tex	Indignant Glacial Retreat	icon_crest.e_crestactiveinvokeskill_tex	35% chance to trigger Overchannel.
 25032	Mana Siphon	190100	icon_skills.manaextortion_tex	Indignant Mana Siphon	icon_crest.e_crestactiveinvokeskill_tex	20% chance to trigger Overchannel.
 25033	Time Gyre	250100	icon_skills.curseofshackle_tex	Energetic Time Gyre	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
 25034	Burning Breath	220100	icon_skills.burningbreath_tex	Lingering Burning Breath	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 20%.
-25035	Burst of Celerity	240100	icon_skills.contractofquickness_tex	Swift Burst of Celerity	icon_crest.e_crestpassiveskilleffectup_tex	Increases attack speed by an additional 50%.
+25035	Burst of Celerity	240100	icon_skills.contractofquickness_tex	Swift Burst of Celerity	icon_crest.e_crestpassiveskilleffectup_tex	Increases Attack Speed by 50%.
 25036	Nerve Exhaustion	210100	icon_skills.neurasthenia_tex	Energetic Nerve Exhaustion	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25037	Mana Volley	230100	icon_skills.mpsink_tex	Lingering Mana Volley	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 40%.
 25038	Retaliate	140100	icon_skills.risingattack_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25039	Retaliate	140100	icon_skills.risingattack_tex	Shielding Retaliate	icon_crest.e_crestactiveinvokeskill_tex	50% chance to activate Mana Barrier II.
 25040	Mana Siphon	190100	icon_skills.manaextortion_tex	Energetic Mana Siphon	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25041	Mana Barrier	100100	icon_skills.manashield_tex	Lingering Mana Barrier	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-25042	Mana Siphon	190100	icon_skills.manaextortion_tex	Blazing Mana Siphon	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Flaming Barrage, the next skill in the chain.
-25043	Lightning Trap	30100	icon_skills.shocktrap_tex	Blazing Lightning Trap	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Flame Pillar, the next skill in the chain.
-25044	Burning Breath	220100	icon_skills.burningbreath_tex	Powerlink Burning Breath	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 35%: Flaming Barrage.
-25045	Glacial Retreat	180100	icon_skills.freezingtheearth_tex	Blazing Glacial Retreat	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 40% for Lightning Trap, the next skill in the chain.
+25042	Mana Siphon	190100	icon_skills.manaextortion_tex	Blazing Mana Siphon	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Flaming Barrage by 25% for a few seconds.
+25043	Lightning Trap	30100	icon_skills.shocktrap_tex	Blazing Lightning Trap	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Flame Pillar by 25% for a few seconds.
+25044	Burning Breath	220100	icon_skills.burningbreath_tex	Powerlink Burning Breath	icon_crest.e_crestnextskillattackup_tex	Increases damage of Flaming Barrage by 35% for a few seconds.
+25045	Glacial Retreat	180100	icon_skills.freezingtheearth_tex	Blazing Glacial Retreat	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Lightning Trap by 40% for a few seconds.
 25046	Time Gyre	250100	icon_skills.curseofshackle_tex	Multiplicative Time Gyre	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 100%.
-25047	Time Gyre	250100	icon_skills.curseofshackle_tex	Blazing Time Gyre	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Fireblast, the next skill in the chain.
+25047	Time Gyre	250100	icon_skills.curseofshackle_tex	Blazing Time Gyre	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Fireblast by 25% for a few seconds.
 25048	Mindblast	130100	icon_skills.sleepwind_tex	Hastened Mindblast	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 30%.
 25049	Mindblast	130100	icon_skills.sleepwind_tex	Persistent Mindblast	icon_crest.e_crestactivecooltimereset_tex	25% chance to eliminate cooldown.
 25050	Ice Needle	20100	icon_skills.icicle_tex	Lingering Ice Needle	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
 25051	Ice Needle	20100	icon_skills.icicle_tex	Slowing Ice Needle	icon_crest.e_crestpassiveskilleffectup_tex	Decreases opponent's movement speed an additional 20%.
-25052	Ice Needle	20100	icon_skills.icicle_tex	Blazing Ice Needle	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 40% for Mindblast, the next skill in the chain.
+25052	Ice Needle	20100	icon_skills.icicle_tex	Blazing Ice Needle	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Mindblast by 40% for a few seconds.
 25053	Painblast	160100	icon_skills.disease_tex	Blossoming Painblast	icon_crest.e_crestpassiveskilleffectup_tex	Increases periodic damage by 20%.
-25054	Painblast	160100	icon_skills.disease_tex	Slowing Painblast	icon_crest.e_crestactivespeeddown_tex	50% chance to decrease opponent's movement speed by 50% for 7 seconds.
-25055	Fireblast	60100	icon_skills.hellfire_tex	Impelling Fireblast	icon_crest.e_crestactivempzero_tex	30% chance to eliminate MP cost.
+25054	Painblast	160100	icon_skills.disease_tex	Slowing Painblast	icon_crest.e_crestactivespeeddown_tex	100% chance to decrease opponent's movement speed by 50% for 7 seconds.
+25055	Fireblast	60100	icon_skills.hellfire_tex	Keen Fireblast	icon_crest.e_crestpassivecriticalup_tex	Doubles chance to crit against monsters.
 25056	Flaming Barrage	200100	icon_skills.trackinginferno_tex	Multiplicative Flaming Barrage	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 0%.
-25057	Arcane Pulse	40100	icon_skills.blastball_tex	Test	icon_skills.voidtrap_tex	No Effect
+25057	Mythical Grace	40100	new_icon_skills.240032	Test	icon_skills.voidtrap_tex	No Effect
 25058	Magma Bomb	110100	icon_skills.howitzer_tex	Persistent Magma Bomb	icon_crest.e_crestactivecooltimereset_tex	30% chance to eliminate cooldown.
-25059	Flame Pillar	80100	icon_skills.auraburn_tex	Blazing Flame Pillar	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 40% for Lightning Trap, the next skill in the chain.
+25059	Flame Pillar	80100	icon_skills.auraburn_tex	Blazing Flame Pillar	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Lightning Trap by 40% for a few seconds.
 25060	Mindblast	130100	icon_skills.sleepwind_tex	Shared Mindblast	icon_crest.e_crestpassivethorns_tex	Increases chance of debuff by 30% when hitting multiple targets.
 25061	Fireblast	60100	icon_skills.hellfire_tex	Energetic Fireblast	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 10%.
-25062	Glacial Retreat	180100	icon_skills.freezingtheearth_tex	Blazing Glacial Retreat	icon_crest.e_crestnextskillattackspeedup_tex	Speeds charging by 30% for Arcane Pulse, the next skill in the chain.
+25062	Glacial Retreat	180100	icon_skills.freezingtheearth_tex	Blazing Glacial Retreat	icon_crest.e_crestnextskillattackspeedup_tex	Speeds charging by 30% for Mythical Grace for a few seconds.
 25063	Teleport Jaunt	260100	icon_skills.shortteleport_tex	Energetic Teleport Jaunt	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
 25064	Flame Pillar	80100	icon_skills.auraburn_tex	Energetic Flame Pillar	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25065	Hail Storm	270100	icon_skills.icestorm_tex	Energetic Hail Storm	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-25066	Hail Storm	270100	icon_skills.icestorm_tex	Brilliant Hail Storm	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 300.
-25068	Burst of Celerity	240100	icon_skills.contractofquickness_tex	Swift Burst of Celerity	icon_crest.e_crestpassiveskilleffectup_tex	Increases attack speed by an additional 50%.
-25069	Fireblast	60100	icon_skills.hellfire_tex	Hastened Fireblast	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 17%.
-25070	Fireblast	60100	icon_skills.hellfire_tex	Energetic Fireblast	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 10%.
-25071	Lightning Trap	30100	icon_skills.shocktrap_tex	Powerlinked Lightning Trap	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Fireblast.
-25072	Void Pulse	120100	icon_skills.lightofruin_tex	Brilliant Void Pulse	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 250.
+25066	Hail Storm	270100	icon_skills.icestorm_tex	Brilliant Hail Storm	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 600.
+25068	Burst of Celerity	240100	icon_skills.contractofquickness_tex	Swift Burst of Celerity	icon_crest.e_crestpassiveskilleffectup_tex	Increases Attack Speed by 50%.
+25069	Fireblast	60100	icon_skills.hellfire_tex	Hastened Fireblast	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%.
+25070	Fireblast	60100	icon_skills.hellfire_tex	Energetic Fireblast	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+25071	Lightning Trap	30100	icon_skills.shocktrap_tex	Powerlinked Lightning Trap	icon_crest.e_crestnextskillattackup_tex	Increases damage of Fireblast by 20% for a few seconds.
+25072	Void Pulse	120100	icon_skills.lightofruin_tex	Brilliant Void Pulse	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 500.
 25073	Mindblast	130100	icon_skills.sleepwind_tex	Shared Mindblast	icon_crest.e_crestpassivethorns_tex	Increases chance of debuff by 30% when hitting multiple targets.
 25074	Nerve Exhaustion	210100	icon_skills.neurasthenia_tex	Energetic Nerve Exhaustion	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
 25075	Lightning Trap	30100	icon_skills.shocktrap_tex	Brilliant Lightning Trap	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 100.
@@ -354,14 +395,21 @@
 25078	Painblast	160100	icon_skills.disease_tex	Energetic Painblast	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 25079	Burning Breath	220100	icon_skills.burningbreath_tex	Hindering Burning Breath	icon_crest.e_crestpassivetargethealdown_tex	Decrease hostile PCs' healing power by 50%
 25080	Mana Barrier	100100	icon_skills.manashield_tex	Warding Mana Barrier	icon_crest.e_crestpassivemaxabsorbup_tex	Increases damage absorption by 30%.
-25081	Arcane Pulse	40100	icon_skills.blastball_tex	Carving Arcane Pulse	icon_crest.e_crestpassivecriticalup_tex	Doubles crit rate for 4 seconds.
-25082	Arcane Pulse	40100	icon_skills.blastball_tex	Slick Arcane Pulse	icon_crest.e_crestpassivechargemove_tex	Can move while charging.
+25081	Mythical Grace	40100	new_icon_skills.240032	Cutting Mythical Grace	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor for 5 seconds.
+25082	Mythical Grace	40100	new_icon_skills.240032	Slick Mythical Grace	icon_crest.e_crestpassivechargemove_tex	Can move while charging.
 25083	Stone Skin	280100	icon_skills.stoneshape_tex	Energetic Stone Skin	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25084	Stone Skin	280100	icon_skills.stoneshape_tex	Energetic Stone Skin	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 25085	Mana Barrier	100100	icon_skills.manashield_tex	Lingering Mana Barrier	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-25086	Fireblast	60100	icon_skills.hellfire_tex	Brilliant Fireblast	icon_crest.e_crestactivempzero_tex	Reduces MP cost by 250.
+25086	Fireblast	60100	icon_skills.hellfire_tex	Brilliant Fireblast	icon_crest.e_crestactivempzero_tex	Reduces MP cost by 500.
 25087	Backstep	70100	icon_skills.backstep_tex	Fleetfooted Backstep	icon_crest.e_crestpassiveskilleffectup_tex	Increases movement speed by 20% for 2 seconds.
-25088	Painblast	160100	icon_skills.disease_tex	Powerlinked Painblast	icon_crest.e_crestnextskillattackup_tex	While enemies are affected by Painblast, increases damage of the next chain skill by 25%: Flaming Barrage.
+25088	Painblast	160100	icon_skills.disease_tex	Powerlinked Painblast	icon_crest.e_crestnextskillattackup_tex	Increases damage of Flaming Barrage by 25% for a few seconds.
+25089	Nova	300100	icon_skills.manaburst_tex	Keen Nova	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor for 4 seconds.
+25090	Nova	300100	icon_skills.manaburst_tex	Grounded Nova	icon_crest.e_crestactivedefenceup_tex	Increases Endurance by 20% for 15 seconds.
+25091	Nova	300100	icon_skills.manaburst_tex	Energetic Nova	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+25092	Nova	300100	icon_skills.manaburst_tex	Swift Nova	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 30%.
+25093	Warp Barrier	310100	icon_skills.distortionfield_tex	Energetic Warp Barrier	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+25094	Warp Barrier	310100	icon_skills.distortionfield_tex	Energetic Warp Barrier	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+25095	Warp Barrier	310100	icon_skills.distortionfield_tex	Lingering Warp Barrier	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 100%.
 26000	Arrow Volley	20100	icon_skills.arrowshower_tex	Multiplicative Arrow Volley	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 0%.
 26001	Radiant Arrow	30100	icon_skills.chargearrow_tex	Longshot Radiant Arrow	icon_crest.e_crestpassiverangeup_tex	Increases range by 3 meters.
 26002	Penetrating Arrow	40100	icon_skills.througharrow_tex	Longshot Penetrating Arrow	icon_crest.e_crestpassiverangeup_tex	Increases range by 3 meters.
@@ -385,42 +433,42 @@
 26025	Retaliate	140100	icon_skills.risingattack_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 26026	Poison Trap	110100	icon_skills.venomtrap_tex	Test	icon_skills.voidtrap_tex	No Effect
 26027	Poison Arrow	190100	icon_skills.venomarrow_tex	Lingering Poison Arrow	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 40%.
-26028	Sniper's Eye	210100	icon_skills.focusstance_tex	Influential Sniper's Eye	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 13: Web Arrow.
+26028	Sniper's Eye	210100	icon_skills.focusstance_tex	Influential Sniper's Eye	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Web Arrow by 13 for a few seconds.
 26029	Restraining Arrow	200100	icon_skills.contaningshot_tex	Lingering Restraining Arrow	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-26030	Velik's Mark	120100	icon_skills.markingofarcher_tex	Influential Velik's Mark	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 31: Poison Arrow.
-26031	Arrow Volley	20100	icon_skills.arrowshower_tex	Influential Arrow Volley	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 75: Incendiary Trap.
-26032	Breakaway Bolt	160100	icon_skills.escapingattack_tex	Powerlinked Breakaway Bolt	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Penetrating Arrow.
+26030	Velik's Gift	120100	icon_skills.markingofarcher_tex	Influential Velik's Gift	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Poison Arrow by 31 for a few seconds.
+26031	Arrow Volley	20100	icon_skills.arrowshower_tex	Influential Arrow Volley	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Incendiary Trap by 75 for a few seconds.
+26032	Breakaway Bolt	160100	icon_skills.escapingattack_tex	Powerlinked Breakaway Bolt	icon_crest.e_crestnextskillattackup_tex	Increases damage of Penetrating Arrow by 25% for a few seconds.
 26033	Web Arrow	170100	icon_skills.spiderarrow_tex	Fleetfooted Web Arrow	icon_crest.e_crestactivespeedup_tex	20% chance to increase movement speed by 10 for 12 seconds while in combat.
 26034	Restraining Arrow	200100	icon_skills.contaningshot_tex	Energetic Restraining Arrow	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 26035	Restraining Arrow	200100	icon_skills.contaningshot_tex	Sapping Restraining Arrow	icon_crest.e_crestactivestun_tex	20% chance to stun target for 3 seconds.
-26036	Velik's Mark	120100	icon_skills.markingofarcher_tex	Lingering Velik's Mark	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 25%.
-26037	Velik's Mark	120100	icon_skills.markingofarcher_tex	Blazing Velik's Mark	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Poison Arrow, the next skill in the chain.
+26036	Velik's Gift	120100	icon_skills.markingofarcher_tex	Hasted Velik's Gift	icon_crest.e_crestpassivedurationup_tex	Reduces the cooldown by 15%.
+26037	Velik's Gift	120100	icon_skills.markingofarcher_tex	Thunderous Velik's Gift	icon_crest.e_crestnextskillattackspeedup_tex	Increases speeds casting of Thunderbolt by 60% for a few seconds.
 26038	Arrow Volley	20100	icon_skills.arrowshower_tex	Persistent Arrow Volley	icon_crest.e_crestactivecooltimereset_tex	30% chance to eliminate cooldown.
-26039	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 40% for Stunning Trap, the next skill in the chain.
-26040	Close Quarters	180100	icon_skills.turningkick_tex	Empowered Close Quarters	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 60%.
-26041	Rapid Fire	80100	icon_skills.rapidshot_tex	Spirited Rapid Fire	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20% when hitting the target.
+26039	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Stunning Trap by 40% for a few seconds.
+26040	Close Quarters	180100	icon_skills.turningkick_tex	Empowered Close Quarters	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+26041	Rapid Fire	80100	icon_skills.rapidshot_tex	Spirited Rapid Fire	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20% when hitting the target.
 26042	Final Salvo	220100	icon_skills.chainrapidshot_tex	Persistent Final Salvo	icon_crest.e_crestactivecooltimereset_tex	50% chance to eliminate cooldown.
 26043	Breakaway Bolt	160100	icon_skills.escapingattack_tex	Fleetfooted Breakaway Bolt	icon_crest.e_crestactivespeedup_tex	30% chance to increase movement speed by 10 for 8 seconds while in combat.
 26044	Breakaway Bolt	160100	icon_skills.escapingattack_tex	Test	icon_skills.voidtrap_tex	No Effect
 26045	Feign Death	70100	icon_skills.feigndeath_tex	Regenerating Feign Death	icon_crest.e_crestpassivehpheal_tex	Heals 2% of total HP every 1 second for 15 seconds. Non combat only.
-26046	Incendiary Trap	150100	icon_skills.explosiontrap_tex	Powerlinked Incendiary Trap	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Arrow Volley.
+26046	Incendiary Trap	150100	icon_skills.explosiontrap_tex	Powerlinked Incendiary Trap	icon_crest.e_crestnextskillattackup_tex	Increases damage of Arrow Volley by 25% for a few seconds.
 26047	Rain of Arrows	50100	icon_skills.arrowfall_tex	Empowered Rain of Arrows	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-26048	Stunning Trap	100100	icon_skills.paralysistrap_tex	Blazing Stunning Trap	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 30% for Penetrating Arrow, the next skill in the chain.
-26049	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 30% for Penetrating Arrow, the next skill in the chain.
-26050	Poison Arrow	190100	icon_skills.venomarrow_tex	Blazing Poison Arrow	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 30% for Radiant Arrow, the next skill in the chain.
-26051	Final Salvo	220100	icon_skills.chainrapidshot_tex	Blazing Final Salvo	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 30% for Penetrating Arrow, the next skill in the chain.
+26048	Stunning Trap	100100	icon_skills.paralysistrap_tex	Blazing Stunning Trap	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Penetrating Arrow by 30% for a few seconds.
+26049	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Penetrating Arrow by 30% for a few seconds.
+26050	Poison Arrow	190100	icon_skills.venomarrow_tex	Blazing Poison Arrow	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Radiant Arrow by 30% for a few seconds.
+26051	Final Salvo	220100	icon_skills.chainrapidshot_tex	Blazing Final Salvo	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Penetrating Arrow by 30% for a few seconds.
 26053	Penetrating Arrow	40100	icon_skills.througharrow_tex	Empowered Penetrating Arrow	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 26054	Penetrating Arrow	40100	icon_skills.througharrow_tex	Slick Penetrating Arrow	icon_crest.e_crestpassivepenaltydelete_tex	Eliminates slowed movement restriction.
 26055	Radiant Arrow	30100	icon_skills.chargearrow_tex	Slick Radiant Arrow	icon_crest.e_crestpassivepenaltydelete_tex	Eliminates slowed movement restriction.
 26056	Backstep	60100	icon_skills.backstep_tex	Energetic Backstep	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 29%.
 26057	Penetrating Arrow	40100	icon_skills.througharrow_tex	Longshot Penetrating Arrow	icon_crest.e_crestpassiverangeup_tex	Increases range by 3 meters.
 26058	Slow Trap	90100	icon_skills.webtrap_tex	Lingering Slow Trap	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-26059	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 40% for Penetrating Arrow, the next skill in the chain.
-26060	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 50% for Stunning Trap, the next skill in the chain.
+26059	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Penetrating Arrow by 40% for a few seconds.
+26060	Arrow Volley	20100	icon_skills.arrowshower_tex	Blazing Arrow Volley	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Stunning Trap by 50% for a few seconds.
 26061	Arrow Volley	20100	icon_skills.arrowshower_tex	Persistent Arrow Volley	icon_crest.e_crestactivecooltimereset_tex	40% chance to eliminate cooldown.
 26062	Feign Death	70100	icon_skills.feigndeath_tex	Regenerating Feign Death	icon_crest.e_crestpassivehpheal_tex	Heals 5% of total HP every 1 second for 8 seconds. Non combat only.
 26063	Radiant Arrow	30100	icon_skills.chargearrow_tex	Sanative Radiant Arrow	icon_crest.e_crestpassiveoverchargehpdown_tex	Decreases HP consumption by 40%.
-26064	Radiant Arrow	30100	icon_skills.chargearrow_tex	Pumped Radiant Arrow	icon_crest.e_crestpassiveattackup_tex	35% chance to increase skill damage by 100% when attacking normal monsters.
+26064	Radiant Arrow	30100	icon_skills.chargearrow_tex	Keen Radiant Arrow	icon_crest.e_crestpassivecriticalup_tex	Triples Crit Factor.
 26065	Close Quarters	180100	icon_skills.turningkick_tex	Fleetfooted Close Quarters	icon_crest.e_crestpassiveskilleffectup_tex	Speeds movement by 50 for 3 seconds.
 26066	Close Quarters	180100	icon_skills.turningkick_tex	Lingering Close Quarters	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 40%.
 26067	Breakaway Bolt	160100	icon_skills.escapingattack_tex	Slowing Breakaway Bolt	icon_crest.e_crestactivespeeddown_tex	100% chance to decrease opponent's movement speed by 40% for 6 seconds.
@@ -428,30 +476,38 @@
 26069	Ensnaring Trap	240100	icon_skills.webtraparrow_tex	Energetic Ensnaring Trap	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 26070	Explosion Trap	250100	icon_skills.explosiontraparrow_tex	Empowered Explosion Trap	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 26071	Concussion Trap	230100	icon_skills.paralysistraparrow_tex	Energetic Concussion Trap	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
-26072	Ensnaring Trap	240100	icon_skills.webtraparrow_tex	Enfeebling Ensnaring Trap	icon_crest.e_crestactivedefencedown_tex	Decreases target's endurance by 3.5% for 5 seconds.
+26072	Ensnaring Trap	240100	icon_skills.webtraparrow_tex	Enfeebling Ensnaring Trap	icon_crest.e_crestactivedefencedown_tex	Decreases target's Endurance by 3.5% for 5 seconds.
 26073	Explosion Trap	250100	icon_skills.explosiontraparrow_tex	Empowered Explosion Trap	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 35%.
 26074	Breakaway Bolt	160100	icon_skills.escapingattack_tex	Energetic Breakaway Bolt	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 26075	Restraining Arrow	200100	icon_skills.contaningshot_tex	Energetic restraining Arrow	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 26076	Rapid Fire	80100	icon_skills.rapidshot_tex	Empowered Rapid Fire	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 50%.
-26077	Rain of Arrows	50100	icon_skills.arrowfall_tex	Swift Rain of Arrows	icon_crest.e_crestpassiveskillspeedup_tex	Increases attack speed of Rain of Arrows by 40%. 
-27000	Titanic Favor	50100	icon_skills.healshot_tex	Multiplicative Titanic Favor	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 0%.
+26077	Rain of Arrows	50100	icon_skills.arrowfall_tex	Swift Rain of Arrows	icon_crest.e_crestpassiveskillspeedup_tex	Increases Attack Speed by 40%. 
+26084	Tenacity	310100	icon_skills.tenacity_tex	Balancing Tenacity	icon_crest.e_crestactivereactionresist_tex	Increases balance by 150% for 15 seconds.
+26085	Tenacity	310100	icon_skills.tenacity_tex	Balancing Tenacity	icon_crest.e_crestactivereactionresist_tex	Doubles balance for 15 seconds.
+26086	Tenacity	310100	icon_skills.tenacity_tex	Spirited Tenacity	icon_crest.e_crestpassivepartympup_tex	50% chance to replenish 6% of your total MP every second.
+26087	Tenacity	310100	icon_skills.tenacity_tex	Energetic Tenacity	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+26088	Tenacity	310100	icon_skills.tenacity_tex	Energetic Tenacity	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+26089	Thunderbolt	260100	icon_skills.thunderdrake_tex	Swift Thunderbolt	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 30%.
+26090	Thunderbolt	260100	icon_skills.thunderdrake_tex	Empowered Thunderbolt	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+26091	Thunderbolt	260100	icon_skills.thunderdrake_tex	Empowered Thunderbolt	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+27000	Titanic Favor	50100	icon_skills.healshot_tex	Multiplicative Titanic Favor	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 100%.
 27002	Vow of Rebirth	120100	icon_skills.autoresurrect_tex	Energetic Vow of Rebirth	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 40%.
-27003	Arun's Cleansing Touch	90100	icon_skills.purifyshot_tex	Multiplicative Arun's Cleansing	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 0%.
+27003	Arun's Cleansing Touch	90100	icon_skills.purifyshot_tex	Multiplicative Arun's Cleansing	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 100%.
 27004	Titanic Wrath	30100	icon_skills.rage_tex	Lingering Titanic Wrath	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 35%.
 27005	Shara's Lash	60100	icon_skills.flashball_tex	Lingering Shara's Lash	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 40%.
 27006	Ancient Binding	40100	icon_skills.slowball_tex	Lingering Ancient Binding	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-27007	Aura of Rejuvenation			Test	icon_skills.voidtrap_tex	No Effect
-27008	Aura of Tenacity			Test	icon_skills.voidtrap_tex	No Effect
+27007	Aura of Rejuvenation	0		Test	icon_skills.voidtrap_tex	No Effect
+27008	Aura of Tenacity	0		Test	icon_skills.voidtrap_tex	No Effect
 27009	Aura of the Merciless	130100	icon_skills.criticalupaura_tex	Brilliant Aura of the Merciless	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 300.
 27010	Aura of the Swift	140100	icon_skills.speedupaura_tex	Brilliant Aura of the Swift	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 50.
 27011	Sharan Bolt	10100	icon_skills.elementalshot_tex	Empowered Sharan Bolt	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 27012	Metamorphic Blast	80100	icon_skills.punishingshield_tex	Empowered Metamorphic Blast	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 27013	Corruption Ring	20100	icon_skills.suckhp_tex	Test	icon_skills.voidtrap_tex	No Effect
-27014	Corruption Ring	20100	icon_skills.suckhp_tex	Trebling Corruption Ring	icon_crest.e_crestpassivereactionresist_tex	Increases balance and resistance to stun by 300%.
-27015	Corruption Ring	20100	icon_skills.suckhp_tex	Unfeeling Corruption Ring	icon_crest.e_crestpassivedeffeceup_tex	Reduces damage by 50%.
+27014	Corruption Ring	20100	icon_skills.suckhp_tex	Fortified Corruption Ring	icon_crest.e_crestpassivereactionresist_tex	Increases up to maximum balance and resistance to stun.
+27015	Corruption Ring	20100	icon_skills.suckhp_tex	Unfeeling Corruption Ring	icon_crest.e_crestpassivedeffeceup_tex	Reduces incoming damage by 50%.
 27016	Teleport Jaunt	170100	icon_skills.shortteleport_tex	Energetic Teleport Jaunt	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
-27017	Mana Infusion	70100	icon_skills.mpcharge_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20%.
-27019	Mana Extraction			Past Glyph Shard	icon_skills.voidtrap_tex	This old, fragmented glyph is no longer used.
+27017	Mana Infusion	70100	icon_skills.mpcharge_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20%.
+27019	Mana Extraction	0		Past Glyph Shard	icon_skills.voidtrap_tex	This old fragmented glyph is no longer used.
 27020	Retaliate	210100	icon_skills.risingattack_tex	Empowered Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 27021	Metamorphic Smite	230100	icon_skills.rageofearth_tex	Energetic Metamorphic Smite	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 27022	Thrall of Protection	250100	icon_skills.summonspiritofaggro_tex	Energetic Thrall of Protection	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 10%.
@@ -467,16 +523,16 @@
 27033	Mire	320100	icon_skills.shackleofstone_tex	Energetic Mire	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 27034	Curse of Exhaustion	300100	icon_skills.spiritoflassitude_tex	Energetic Curse of Exhaustion	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 27035	Curse of Confusion	310100	icon_skills.spiritofconfusion_tex	Lingering Curse of Confusion	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 25%.
-27036	Metamorphic Smite	230100	icon_skills.rageofearth_tex	Influential Metamorphic Smite	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 41: Metamorphic Blast.
-27037	Volley of Curses	240100	icon_skills.painfulshackle_tex	Influential Volley of Curses	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 33: Volley of Curses.
-27038	Titanic Wrath	30100	icon_skills.rage_tex	Influential Titanic Wrath	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 100: Arun's Vitae.
-27039	Corruption Ring	20100	icon_skills.suckhp_tex	Influential Corruption Ring	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 100: Arun's Tears.
+27036	Metamorphic Smite	230100	icon_skills.rageofearth_tex	Influential Metamorphic Smite	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Metamorphic Blast by 41 for a few seconds.
+27037	Volley of Curses	240100	icon_skills.painfulshackle_tex	Influential Volley of Curses	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Volley of Curses by 33 for a few seconds.
+27038	Titanic Wrath	30100	icon_skills.rage_tex	Influential Titanic Wrath	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Arun's Vitae by 100 for a few seconds.
+27039	Corruption Ring	20100	icon_skills.suckhp_tex	Influential Corruption Ring	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Arun's Tears by 100 for a few seconds.
 27040	Volley of Curses	240100	icon_skills.painfulshackle_tex	Multiplicative Volley of Curses	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 0%.
-27041	Ancient Binding	40100	icon_skills.slowball_tex	Numbing Ancient Binding	icon_crest.e_crestactiveattackspeeddown_tex	50% chance to decrease opponent's attack speed by 30% for 6 seconds.
+27041	Ancient Binding	40100	icon_skills.slowball_tex	Numbing Ancient Binding	icon_crest.e_crestactiveattackspeeddown_tex	50% chance to decrease opponent's Attack Speed by 30% for 6 seconds.
 27042	Metamorphic Smite	230100	icon_skills.rageofearth_tex	Hastened Metamorphic Smite	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%.
 27043	Summon Party	110100	icon_skills.recallfriend_tex	Energetic Summon Party	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 27044	Mana Infusion	70100	icon_skills.mpcharge_tex	Hastened Mana Infusion	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%.
-27045	Arun's Tears	220100	icon_skills.mprefresher_tex	Blazing Arun's Tears	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Arun's Vitae, the next skill in the chain.
+27045	Arun's Tears	220100	icon_skills.mprefresher_tex	Blazing Arun's Tears	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Arun's Vitae by 25% for a few seconds.
 27046	Thrall of Vengeance	330100	icon_skills.summonspiritofrange_tex	Empowered Thrall of Vengeance	icon_crest.e_crestpassiveattackup_tex	Increases the Thrall of Vengeance's damage by 25%.
 27047	Thrall of Vengeance	330100	icon_skills.summonspiritofrange_tex	Fortified Thrall of Vengeance	icon_crest.e_crestpassivedeffeceup_tex	Increases defense of Thrall of Vengeance by 25%.
 27048	Thrall of Vengeance	330100	icon_skills.summonspiritofrange_tex	Lingering Thrall of Vengeance	icon_crest.e_crestpassivedurationup_tex	Increases the thrall's duration by 25%.
@@ -484,21 +540,21 @@
 27050	Thrall of Life	270100	icon_skills.summonspiritofheal_tex	Fortified Thrall of Life	icon_crest.e_crestpassivedeffeceup_tex	Increases defense of Thrall of Life by 100%.
 27051	Thrall of Protection	250100	icon_skills.summonspiritofaggro_tex	Empowered Thrall of Protection	icon_crest.e_crestpassiveattackup_tex	Increases the Thrall of Protection's damage by 25%.
 27052	Thrall of Protection	250100	icon_skills.summonspiritofaggro_tex	Fortified Thrall of Protection	icon_crest.e_crestpassivedeffeceup_tex	Increases defense of Thrall of Protection by 25%.
-27053	Teleport Jaunt	170100	icon_skills.shortteleport_tex	Blazing Teleport Jaunt	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Arun's Vitae, the next skill in the chain.
-27054	Teleport Jaunt	170100	icon_skills.shortteleport_tex	Blazing Teleport Jaunt	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Thrall of Life, the next skill in the chain.
+27053	Teleport Jaunt	170100	icon_skills.shortteleport_tex	Blazing Teleport Jaunt	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Arun's Vitae by 25% for a few seconds.
+27054	Teleport Jaunt	170100	icon_skills.shortteleport_tex	Blazing Teleport Jaunt	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Thrall of Life by 25% for a few seconds.
 27055	Thrall of Wrath	340100	icon_skills.summonspiritofattack_tex	Energetic Thrall of Wrath	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 50%.
 27056	Thrall of Wrath	340100	icon_skills.summonspiritofattack_tex	Empowered Thrall of Wrath	icon_crest.e_crestpassiveattackup_tex	Increases the Thrall of Wrath's damage by 25%.
 27057	Thrall of Wrath	340100	icon_skills.summonspiritofattack_tex	Hastened Thrall of Wrath	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 30%.
-27058	Vow of Rebirth	120100	icon_skills.autoresurrect_tex	Altruistic Vow of Rebirth	icon_crest.e_crestactiveinvokeskill_tex	Caster receives effect of Vow of Rebirth when used on another target.
-27059	Arun's Vitae	180100	icon_skills.hprefresher_tex	Blazing Arun's Vitae	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Arun's Tears, the next skill in the chain.
+27058	Vow of Rebirth	120100	icon_skills.autoresurrect_tex	Altruistic Vow of Rebirth	icon_crest.e_crestactiveinvokeskill_tex	Increases number of lock-on targets by 0%.
+27059	Arun's Vitae	180100	icon_skills.hprefresher_tex	Blazing Arun's Vitae	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Arun's Tears by 25% for a few seconds.
 27060	Titanic Favor	50100	icon_skills.healshot_tex	Longshot Titanic Favor	icon_crest.e_crestpassiverangeup_tex	Increases range by 3 meters.
 27062	Teleport Jaunt	170100	icon_skills.shortteleport_tex	Energetic Teleport Jaunt	icon_crest.e_crestactivecooltimereset_tex	Decreases cooldown by 15%.
-27063	Arun's Cleansing Touch	90100	icon_skills.purifyshot_tex	Multiplicative Arun's Cleansing	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 0%.
+27063	Arun's Cleansing Touch	90100	icon_skills.purifyshot_tex	Multiplicative Arun's Cleansing	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 100%.
 27064	Vow of Rebirth	120100	icon_skills.autoresurrect_tex	Altruistic Vow of Rebirth	icon_crest.e_crestactiveinvokeskill_tex	Caster receives effect of Vow of Rebirth when used on another target.
 27065	Thrall of Life	270100	icon_skills.summonspiritofheal_tex	Energetic Thrall of Life	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 27066	Shara's Lash	60100	icon_skills.flashball_tex	Lingering Shara's Lash	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 40%.
 27067	Titanic Favor	50100	icon_skills.healshot_tex	Longshot Titanic Favor	icon_crest.e_crestpassiverangeup_tex	Increases range by 3 meters.
-27068	Volley of Curses	240100	icon_skills.painfulshackle_tex	Influential Volley of Curses	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 33: Volley of Curses.
+27068	Volley of Curses	240100	icon_skills.painfulshackle_tex	Influential Volley of Curses	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Volley of Curses by 33 for a few seconds.
 27069	Thrall of Vengeance	330100	icon_skills.summonspiritofrange_tex	Lingering Thrall of Vengeance	icon_crest.e_crestpassivedurationup_tex	Increases the thrall's duration by 35%.
 27070	Sonorous Dreams	280100	icon_skills.shackleofquicksand_tex	Brilliant Sonorous Dreams	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 188.
 27071	Shara's Lash	60100	icon_skills.flashball_tex	Fleetfooted Shara's Lash	icon_crest.e_crestpassiveskilleffectup_tex	Speeds movement by 50 for 3 seconds upon successful hit.
@@ -506,17 +562,23 @@
 27073	Retaliate	210100	icon_skills.risingattack_tex	Balancing Retaliate	icon_crest.e_crestactivereactionresist_tex	Increases balance by 500% for 2 seconds.
 27074	Titanic Wrath	30100	icon_skills.rage_tex	Spreading Titanic Wrath	icon_crest.e_crestpassiveskillrangeup_tex	Increases skill radius by 5M.
 27075	Sonorous Dreams	280100	icon_skills.shackleofquicksand_tex	Energetic Sonorous Dreams	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-27076	Thrall of Protection	250100	icon_skills.summonspiritofaggro_tex	Grounded Thrall of Protection	icon_crest.e_crestactivedefenceup_tex	Increases all party members' endurance by 10% for 10 minutes.
+27076	Thrall of Protection	250100	icon_skills.summonspiritofaggro_tex	Grounded Thrall of Protection	icon_crest.e_crestactivedefenceup_tex	Increases all party members' Endurance by 10% for 10 minutes.
 27077	Warding Totem	370100	icon_skills.energiesofprotection_tex	Brilliant Warding Totem	icon_crest.e_crestpassivempdown_tex	Decreases MP consumption by 300.
-27078	Warding Totem	370100	icon_skills.energiesofprotection_tex	Restorative Warding Totem	icon_crest.e_crestactivehprecoveryup_tex	Increases HP regeneration by 20%.
-27079	Resurrection	390100	icon_skills.selfpreresurrection_tex	Hastened Resurrection	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 40%.
+27078	Warding Totem	370100	icon_skills.energiesofprotection_tex	Restorative Warding Totem	icon_crest.e_crestactivehprecoveryup_tex	Increases HP regeneration by 25%.
+27079	Resurrect	100100	icon_skills.resurrect_tex	Hastened Resurrect	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 40%.
 27080	Vow of Rebirth	120100	icon_skills.autoresurrect_tex	Energetic Vow of Rebirth	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 40%.
-27081	Arun's Vitae	180100	icon_skills.hprefresher_tex	Restorative Arun's Vitae	icon_crest.e_crestpassivehprecoveryup_tex	Immediately restores 15% of total HP.
+27081	Arun's Vitae	180100	icon_skills.hprefresher_tex	Restorative Arun's Vitae	icon_crest.e_crestpassivehprecoveryup_tex	Immediately recovers 20% of total HP.
 27082	Thrall of Life	270100	icon_skills.summonspiritofheal_tex	Lingering Thrall of Life	icon_crest.e_crestpassivedurationup_tex	Increases the thrall's duration by 25%.
+27084	Volley of Curses	240100	icon_skills.painfulshackle_tex	Enfeebling Volley of Curses	icon_crest.e_crestactivedefencedown_tex	100% chance to decrease Endurance by 3% for 16 seconds. Stacks up to 3 times.
+27085	Resurrect	100100	icon_skills.resurrect_tex	Hearty Resurrect	icon_crest.e_crestpassivemprecoveryup_tex	Targets resurrect with 120 Stamina.
+27086	Contagion	410100	icon_skills.plague_tex	Lingering Contagion	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 20%.
+27087	Boomerang Pulse	420100	icon_skills.mysticorb_tex	Brilliant Boomerang Pulse	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 225.
+27088	Boomerang Pulse	420100	icon_skills.mysticorb_tex	Energetic Boomerang Pulse	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+27089	Boomerang Pulse	420100	icon_skills.mysticorb_tex	Energetic Boomerang Pulse	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 28000	Heal Thyself	180100	icon_skills.healingpray_tex	Restorative Heal Thyself	icon_crest.e_crestpassivehprecoveryup_tex	Increases HP regeneration by 20%.
 28001	Healing Circle	30100	icon_skills.healarea_tex	Restorative Healing Circle	icon_crest.e_crestpassivehprecoveryup_tex	Increases HP regeneration by 10%.
-28002	Regeneration Circle	20100	icon_skills.healingwind_tex	Lingering Regeneration Circle	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
-28003	Focus Heal	190100	icon_skills.healinglightlockon_tex	Multiplicative Focus Heal	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 0%.
+28002	Reinforcement Circle	20100	new_icons_skills.healingwind_tex	Lingering Reinforcement Circle	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 15%.
+28003	Focus Heal	190100	icon_skills.healinglightlockon_tex	Multiplicative Focus Heal	icon_crest.e_crestpassivelockontargetup_tex	Increases number of lock-on targets by 100%.
 28004	Kaia's Shield	220100	icon_skills.armorofprotection_tex	Energetic Kaia's Shield	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 28005	Purifying Circle	100100	icon_skills.purify_tex	Energetic Purifying Circle	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 28006	Blessing of Shakan	50100	icon_skills.attackup_tex	Lingering Blessing of Shakan	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
@@ -525,14 +587,14 @@
 28009	Blessing of Balder	230100	icon_skills.refreshbless_tex	Lingering Blessing of Balder	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
 28012	Divine Radiance	10100	icon_skills.magicshot_tex	Empowered Divine Radiance	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 28013	Metamorphic Blast	110100	icon_skills.punishingshield_tex	Brilliant Metamorphic Blast	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 33.
-28014	Shocking Implosion	160100	icon_skills.damagedeal_tex	Powerlinked Shocking Implosion	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Final Reprisal.
-28018	Regeneration Circle	20100	icon_skills.healingwind_tex	Energetic Regeneration Circle	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-28019	Mana Infusion	80100	icon_skills.mpcharge_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20%.
-28020	Mana Extraction			Past Glyph Shard	icon_skills.voidtrap_tex	This old, fragmented glyph is no longer used.
+28014	Shocking Implosion	160100	icon_skills.damagedeal_tex	Powerlinked Shocking Implosion	icon_crest.e_crestnextskillattackup_tex	Increases damage of Final Reprisal by 25% for a few seconds.
+28018	Reinforcement Circle	20100	new_icons_skills.healingwind_tex	Energetic Reinforcement Circle	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
+28019	Mana Infusion	80100	icon_skills.mpcharge_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20%.
+28020	Mana Extraction	0		Past Glyph Shard	icon_skills.voidtrap_tex	This old fragmented glyph is no longer used.
 28021	Prayer of Peace	170100	icon_skills.agrorelease_tex	Hastened Prayer of Peace	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 100%.
 28022	Arise	60100	icon_skills.recovery_tex	Energetic Arise	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 50%.
 28023	Retaliate	250100	icon_skills.risingattack_tex	Empowered Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
-28024	Triple Nemesis	290100	icon_skills.divineretribution_tex	Powerlinked Triple Nemesis	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Metamorphic Blast.
+28024	Triple Nemesis	290100	icon_skills.divineretribution_tex	Powerlinked Triple Nemesis	icon_crest.e_crestnextskillattackup_tex	Increases damage of Metamorphic Blast by 25% for a few seconds.
 28026	Resurrect	120100	icon_skills.resurrect_tex	Brilliant Resurrect	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 510.
 28027	Blessing of Zenobia	150100	icon_skills.fastwalk_tex	Boosted Blessing of Zenobia	icon_crest.e_crestpassiveskilleffectup_tex	Increases movement speed by an additional 50%.
 28028	Summon Party	140100	icon_skills.recallfriend_tex	Brilliant Summon Party	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 800.
@@ -545,12 +607,12 @@
 28035	Guardian Sanctuary	310100	icon_skills.guardianaura_tex	Energetic Guardian Sanctuary	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 28036	Divine Respite	320100	icon_skills.restoration_tex	Energetic Divine Respite	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 28037	Plague of Exhaustion	300100	icon_skills.prophecyoflethargy_tex	Energetic Plague of Exhaustion	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-28038	Regeneration Circle	20100	icon_skills.healingwind_tex	Influential Regeneration Circle	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost for the next chain skill by 85: Focus Heal.
+28038	Reinforcement Circle	20100	new_icons_skills.healingwind_tex	Influential Reinforcement Circle	icon_crest.e_crestnextskillmpdown_tex	Reduces MP cost of Focus Heal by 85 for a few seconds.
 28039	Mana Charge	280100	icon_skills.manarejuvenation_tex	Longshot Mana Charge	icon_crest.e_crestpassiveskillrangeup_tex	Increases range by 4 meters.
-28040	Kaia's Shield	220100	icon_skills.armorofprotection_tex	Grounded Kaia's Shield	icon_crest.e_crestactivedefenceup_tex	Increases caster's endurance by 30% for 12 seconds.
+28040	Kaia's Shield	220100	icon_skills.armorofprotection_tex	Grounded Kaia's Shield	icon_crest.e_crestactivedefenceup_tex	Increases caster's Endurance by 30% for 12 seconds.
 28041	Blessing of Zenobia	150100	icon_skills.fastwalk_tex	Fleetfooted Blessing of Zenobia	icon_crest.e_crestactivespeedup_tex	Increases caster's movement speed by 15 for 10 minutes.
 28042	Summon Party	140100	icon_skills.recallfriend_tex	Energetic Summon Party	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-28043	Mana Charge	280100	icon_skills.manarejuvenation_tex	Powerlinked Mana Charge	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Shocking Implosion.
+28043	Mana Charge	280100	icon_skills.manarejuvenation_tex	Powerlinked Mana Charge	icon_crest.e_crestnextskillattackup_tex	Increases damage of Shocking Implosion by 25% for a few seconds.
 28044	Mana Infusion	80100	icon_skills.mpcharge_tex	Hastened Mana Infusion	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%.
 28045	Resurrect	120100	icon_skills.resurrect_tex	Hastened Resurrect	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 30%.
 28046	Energy Stars	350100	icon_skills.divinelightning_tex	Lingering Energy Stars	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 25%.
@@ -559,68 +621,139 @@
 28049	Restorative Burst	340100	icon_skills.sanctuaryofregeneration_tex	Brilliant Restorative Burst	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 275.
 28050	Final Reprisal	270100	icon_skills.punishingtouch_tex	Brilliant Final Reprisal	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 62.
 28051	Final Reprisal	270100	icon_skills.punishingtouch_tex	Persistent Final Reprisal	icon_crest.e_crestactivecooltimereset_tex	40% chance to eliminate cooldown.
-28052	Final Reprisal	270100	icon_skills.punishingtouch_tex	Slowing Final Reprisal	icon_crest.e_crestactivespeeddown_tex	20% chance to decrease opponent's movement speed by 30% for 4 seconds.
-28053	Metamorphic Blast	110100	icon_skills.punishingshield_tex	Numbing Metamorphic Blast	icon_crest.e_crestactiveattackspeeddown_tex	20% chance to decrease opponent's attack speed by 15% for 7 seconds.
-28054	Triple Nemesis	290100	icon_skills.divineretribution_tex	Enfeebling Triple Nemesis	icon_crest.e_crestactivedefencedown_tex	100% chance to decrease endurance by 10% for 7 seconds. Does not stack with Kaia's Binding.
+28052	Final Reprisal	270100	icon_skills.punishingtouch_tex	Slowing Final Reprisal	icon_crest.e_crestactivespeeddown_tex	20% chance to decrease opponent's Movement Speed by 30% for 4 seconds.
+28053	Metamorphic Blast	110100	icon_skills.punishingshield_tex	Numbing Metamorphic Blast	icon_crest.e_crestactiveattackspeeddown_tex	20% chance to decrease opponent's Attack Speed by 15% for 7 seconds.
+28054	Triple Nemesis	290100	icon_skills.divineretribution_tex	Enfeebling Triple Nemesis	icon_crest.e_crestactivedefencedown_tex	100% chance to decrease Endurance by 10% for 12 seconds. Does not stack with Kaia's Binding.
 28055	Focus Heal	190100	icon_skills.healinglightlockon_tex	Longshot Focus Heal	icon_crest.e_crestpassiverangeup_tex	Increases range by 3 meters.
-28057	Heal Thyself	180100	icon_skills.healingpray_tex	Restorative Heal Thyself	icon_crest.e_crestpassivehprecoveryup_tex	Increases HP regeneration by 20%.
-28058	Shocking Implosion	160100	icon_skills.damagedeal_tex	Powerlinked Shocking Implosion	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Final Reprisal.
-28059	Mana Infusion	80100	icon_skills.mpcharge_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20%.
-28060	Triple Nemesis	290100	icon_skills.divineretribution_tex	Powerlinked Triple Nemesis	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 25%: Metamorphic Blast.
-28061	Blessing of Zenobia	150100	icon_skills.fastwalk_tex	Fleetfooted Blessing of Zenobia	icon_crest.e_crestactivespeedup_tex	Increases caster's movement speed by 15 for 10 minutes.
-28062	Regeneration Circle	20100	icon_skills.healingwind_tex	Energetic Regeneration Circle	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
+28057	Heal Thyself	180100	icon_skills.healingpray_tex	Restorative Heal Thyself	icon_crest.e_crestpassivehprecoveryup_tex	Increases HP recovery by 20%.
+28058	Shocking Implosion	160100	icon_skills.damagedeal_tex	Powerlinked Shocking Implosion	icon_crest.e_crestnextskillattackup_tex	Increases damage of Final Reprisal by 25% for a few seconds.
+28059	Mana Infusion	80100	icon_skills.mpcharge_tex	Spirited Mana Infusion	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20%.
+28060	Triple Nemesis	290100	icon_skills.divineretribution_tex	Powerlinked Triple Nemesis	icon_crest.e_crestnextskillattackup_tex	Increases damage of Metamorphic Blast by 25% for a few seconds.
+28061	Blessing of Zenobia	150100	icon_skills.fastwalk_tex	Fleetfooted Blessing of Zenobia	icon_crest.e_crestactivespeedup_tex	Increases caster's Movement Speed by 15 for 10 minutes.
+28062	Reinforcement Circle	20100	new_icons_skills.healingwind_tex	Energetic Reinforcement Circle	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 28063	Plague of Exhaustion	300100	icon_skills.prophecyoflethargy_tex	Energetic Plague of Exhaustion	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 30%.
 28064	Restorative Burst	340100	icon_skills.sanctuaryofregeneration_tex	Brilliant Restorative Burst	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 275.
 28065	Resurrect	120100	icon_skills.resurrect_tex	Brilliant Resurrect	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 510.
 28066	Fiery Escape	260100	icon_skills.sanctuary_tex	Energetic Fiery Escape	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
 28067	Kaia's Shield	220100	icon_skills.armorofprotection_tex	Regenerating Kaia's Shield	icon_crest.e_crestpassivehpwhileheal_tex	Restores 5% of total HP of all targets every 2 seconds for 6 seconds.
-28068	Mana Charge	280100	icon_skills.manarejuvenation_tex	Spirited Mana Charge	icon_crest.e_crestpassivepartympup_tex	Increases MP regeneration by 50%.
+28068	Mana Charge	280100	icon_skills.manarejuvenation_tex	Spirited Mana Charge	icon_crest.e_crestpassivepartympup_tex	Increases MP replenishment by 80%.
 28069	Focus Heal	190100	icon_skills.healinglightlockon_tex	Soothing Focus Heal	icon_crest.e_crestpassivecooltimedown_tex	Decrease aggro by 20%
-28070	Guardian Sanctuary	310100	icon_skills.guardianaura_tex	Balancing Guardian Sanctuary	icon_crest.e_crestactivereactionresist_tex	Doubles balance for 30 seconds.
+28070	Guardian Sanctuary	310100	icon_skills.guardianaura_tex	Balancing Guardian Sanctuary	icon_crest.e_crestactivereactionresist_tex	Doubles Balance for 30 seconds.
 28071	Arise	60100	icon_skills.recovery_tex	Lingering Arise	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 100%.
-28072	Mana Charge	280100	icon_skills.manarejuvenation_tex	Spirited Mana Charge	icon_crest.e_crestpassivepartympup_tex	Increases MP regeneration by 25%.
+28072	Mana Charge	280100	icon_skills.manarejuvenation_tex	Spirited Mana Charge	icon_crest.e_crestpassivepartympup_tex	Increases MP replenishment by 25%.
 28073	Healing Immersion	370100	icon_skills.curewing_tex	Persistent Healing Immersion	icon_crest.e_crestactivecooltimereset_tex	40% chance to eliminate cooldown.
 28074	Grace of Resurrection	390100	icon_skills.selfpreresurrection_tex	Energetic Grace of Resurrection	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 40%.
-28075	Healing Immersion	370100	icon_skills.curewing_tex	Restorative Healing Immersion	icon_crest.e_crestpassivehprecoveryup_tex	Increases HP regeneration by 20%.
-28076	Blessing of Zenobia	150100	icon_skills.fastwalk_tex	Boosted Blessing of Zenobia	icon_crest.e_crestpassiveskilleffectup_tex	Increases movement speed by an additional 50%.
+28075	Healing Immersion	370100	icon_skills.curewing_tex	Restorative Healing Immersion	icon_crest.e_crestpassivehprecoveryup_tex	Increases HP recovery by 20%.
+28076	Blessing of Zenobia	150100	icon_skills.fastwalk_tex	Boosted Blessing of Zenobia	icon_crest.e_crestpassiveskilleffectup_tex	Increases Movement Speed by an additional 50%.
 28077	Mana Infusion	80100	icon_skills.mpcharge_tex	Hastened Mana Infusion	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%.
-28078	Restorative Burst	340100	icon_skills.sanctuaryofregeneration_tex	Spirited Restorative Burst	icon_crest.e_crestpassivemprecoveryup_tex	Restores 50 MP per second to all targets.
-28079	Resurrection	390100	icon_skills.selfpreresurrection_tex	Hearty Resurrection	icon_crest.e_crestpassivemprecoveryup_tex	Targets resurrect with 120 Stamina.
-29000	Spiral Barrage	10100	icon_skills.comboattack2_tex	Powerful Spiral Barrage	icon_crest.e_crestactivekill_tex	15% chance to inflict double damage.
-29001	Spiral Barrage	10100	icon_skills.comboattack2_tex	Spirited Spiral Barrage	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20%.
-29002	Spiral Barrage	10100	icon_skills.comboattack2_tex	Swift Spiral Barrage	icon_crest.e_crestactiveattackspeedup_tex	10% chance to increase attack speed by 15% for 10 seconds.
-29003	Spiral Barrage	10100	icon_skills.comboattack2_tex	Carving Spiral Barrage	icon_crest.e_crestpassivecriticalup_tex	Doubles critical rate.
+28078	Restorative Burst	340100	icon_skills.sanctuaryofregeneration_tex	Spirited Restorative Burst	icon_crest.e_crestpassivemprecoveryup_tex	Replenishes 50 MP per second to all targets.
+28079	Resurrect	120100	icon_skills.resurrect_tex	Hearty Resurrect	icon_crest.e_crestpassivemprecoveryup_tex	Targets resurrect with 120 Stamina.
+28082	Divine Intervention	410100	icon_skills.helpinghand_tex	Energetic Divine Intervention	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+28083	Divine Intervention	410100	icon_skills.helpinghand_tex	Brilliant Divine Intervention	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
+28084	Divine Intervention	410100	icon_skills.helpinghand_tex	Longshot Divine Intervention	icon_crest.e_crestpassiveskillrangeup_tex	Increases range by 4 meters.
+28085	Zenobia's Vortex	400100	icon_skills.godbreath_tex	Energetic Zenobia's Vortex	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+28086	Zenobia's Vortex	400100	icon_skills.godbreath_tex	Energetic Zenobia's Vortex	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+28087	Zenobia's Vortex	400100	icon_skills.godbreath_tex	Brilliant Zenobia's Vortex	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 100.
+28088	Zenobia's Vortex	400100	icon_skills.godbreath_tex	Empowered Zenobia's Vortex	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+29000	Spiral Barrage	10100	icon_skills.comboattack2_tex	Empowered Spiral Barrage	icon_crest.e_crestactivekill_tex	15% chance to inflict double damage.
+29001	Spiral Barrage	10100	icon_skills.comboattack2_tex	Spirited Spiral Barrage	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20%.
+29002	Spiral Barrage	10100	icon_skills.comboattack2_tex	Swift Spiral Barrage	icon_crest.e_crestactiveattackspeedup_tex	10% chance to increase Attack Speed by 15% for 10 seconds.
+29003	Spiral Barrage	10100	icon_skills.comboattack2_tex	Carving Spiral Barrage	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
 29004	Double Shear	30100	icon_skills.chainsmash_tex	Restorative Double Shear	icon_crest.e_crestpassivehpheal_tex	Recovers 1,5% of total HP on each hit.
-29005	Double Shear	30100	icon_skills.chainsmash_tex	Powerlinked Double Shear	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Grim Strike.
-29006	Sundering Strike	40100	icon_skills.chainblow_tex	Powerful Sundering Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill power by 15%.
-29007	Sundering Strike	40100	icon_skills.chainblow_tex	Carving Sundering Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles critical rate.
+29005	Double Shear	30100	icon_skills.chainsmash_tex	Powerlinked Double Shear	icon_crest.e_crestnextskillattackup_tex	Increases damage of Grim Strike by 20% for a few seconds.
+29006	Sundering Strike	40100	icon_skills.chainblow_tex	Empowered Sundering Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 15%.
+29007	Sundering Strike	40100	icon_skills.chainblow_tex	Carving Sundering Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
 29009	Grim Strike	50100	icon_skills.chainsuperblow_tex	Energetic Grim Strike	icon_crest.e_crestactivecooltimereset_tex	30% chance to eliminate cooldown.
-29010	Grim Strike	50100	icon_skills.chainsuperblow_tex	Blazing Grim Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting by 25% for Double Shear, the next skill in the chain.
-29011	Death Spiral	60100	icon_skills.chainbrandish_tex	Powerful Death Spiral	icon_crest.e_crestpassiveattackup_tex	Increases skill power by 25%.
+29010	Grim Strike	50100	icon_skills.chainsuperblow_tex	Blazing Grim Strike	icon_crest.e_crestnextskillattackspeedup_tex	Speeds casting of Double Shear by 25% for a few seconds.
+29011	Death Spiral	60100	icon_skills.chainbrandish_tex	Empowered Death Spiral	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 29012	Death Spiral	60100	icon_skills.chainbrandish_tex	Lingering Death Spiral	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
-29013	Death Spiral	60100	icon_skills.chainbrandish_tex	Powerlinked Death Spiral	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Double Shear.
-29014	Death Spiral	60100	icon_skills.chainbrandish_tex	Powerlinked Death Spiral	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Grim Strike.
-29015	Whipsaw	80100	icon_skills.chainblade_tex	Powerful Whipsaw	icon_crest.e_crestpassiveattackup_tex	Increases skill power by 25%.
+29013	Death Spiral	60100	icon_skills.chainbrandish_tex	Powerlinked Death Spiral	icon_crest.e_crestnextskillattackup_tex	Increases damage of Double Shear by 20% for a few seconds.
+29014	Death Spiral	60100	icon_skills.chainbrandish_tex	Powerlinked Death Spiral	icon_crest.e_crestnextskillattackup_tex	Increases damage of Grim Strike by 20% for a few seconds.
+29015	Whipsaw	80100	icon_skills.chainblade_tex	Empowered Whipsaw	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 29016	Whipsaw	80100	icon_skills.chainblade_tex	Energetic Whipsaw	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-29017	Whipsaw	80100	icon_skills.chainblade_tex	Numbing Whipsaw	icon_crest.e_crestactiveattackspeeddown_tex	20% chance to decrease opponent's attack speed by 10% for 7 seconds for each hit. (Slowing effects stack up to 5 times.)
+29017	Whipsaw	80100	icon_skills.chainblade_tex	Numbing Whipsaw	icon_crest.e_crestactiveattackspeeddown_tex	20% chance to decrease opponent's Attack Speed by 10% for 7 seconds for each hit. (Slowing effects stack up to 5 times.)
 29018	Smite	90100	icon_skills.chainstrike_tex	Energetic Smite	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
 29019	Smite	90100	icon_skills.chainstrike_tex	Lingering Smite	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 25%.
-29020	Pendulum Strike	100100	icon_skills.chainuppercut_tex	Powerful Pendulum Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill power by 25%.
+29020	Pendulum Strike	100100	icon_skills.chainuppercut_tex	Empowered Pendulum Strike	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
 29021	Pendulum Strike	100100	icon_skills.chainuppercut_tex	Energetic Pendulum Strike	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-29022	Pendulum Strike	100100	icon_skills.chainuppercut_tex	Powerlinked Pendulum Strike	icon_crest.e_crestnextskillattackup_tex	Increases crit rate for the next chain skill by 30%: Whipsaw.
+29022	Pendulum Strike	100100	icon_skills.chainuppercut_tex	Powerlinked Pendulum Strike	icon_crest.e_crestnextskillattackup_tex	Increases the chance to crit of Whipsaw by 30% for a few seconds.
 29023	Shadow Lash	110100	icon_skills.chainflurry_tex	Energetic Shadow Lash	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
-29024	Shadow Lash	110100	icon_skills.chainflurry_tex	Spirited Shadow Lash	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP regeneration by 20%.
+29024	Shadow Lash	110100	icon_skills.chainflurry_tex	Spirited Shadow Lash	icon_crest.e_crestpassivemprecoveryup_tex	Increases MP replenishment by 20%.
 29025	Shadow Burst	120100	icon_skills.darkexplosion_tex	Energetic Shadow Burst	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-29026	Shadow Burst	120100	icon_skills.darkexplosion_tex	Swift Shadow Burst	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 17%.
+29026	Shadow Burst	120100	icon_skills.darkexplosion_tex	Swift Shadow Burst	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%.
 29027	Soul Reversal	130100	icon_skills.darkgrasp_tex	Brilliant Soul Reversal	icon_crest.e_crestpassivempdown_tex	Reduce MP cost of casting and switching positions by 150.
 29028	Soul Reversal	130100	icon_skills.darkgrasp_tex	Energetic Soul Reversal	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
-29029	Retaliate	140100	icon_skills.risingattack2_tex	Powerful Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill power by 20%.
+29029	Retaliate	140100	icon_skills.risingattack2_tex	Empowered Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
 29030	Retaliate	140100	icon_skills.risingattack2_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 29031	Retribution	150100	icon_skills.counterattack_tex	Energetic Retribution	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
 29032	Shadow Reaping	160100	icon_skills.descentofdarkness_tex	Brilliant Shadow Reaping	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
 29033	Shadow Reaping	160100	icon_skills.descentofdarkness_tex	Lingering Shadow Reaping	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 30%.
 29035	Cable Step	200100	icon_skills.reversecapture_tex	Energetic Cable Step	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
-29036	Cable Step	200100	icon_skills.reversecapture_tex	Swift Cable Step	icon_crest.e_crestpassiveskillspeedup_tex	Increases attack speed of next skill by 50% upon hit.
-29037	Cable Step	200100	icon_skills.reversecapture_tex	Powerlinked Cable Step	icon_crest.e_crestnextskillattackup_tex	Increases skill damage for the next chain skill by 20%: Shadow Burst.
+29036	Cable Step	200100	icon_skills.reversecapture_tex	Swift Cable Step	icon_crest.e_crestpassiveskillspeedup_tex	Increases Attack Speed for next skill by 50% upon hit.
+29037	Cable Step	200100	icon_skills.reversecapture_tex	Powerlinked Cable Step	icon_crest.e_crestnextskillattackup_tex	Increases damage of Shadow Burst by 20% for a few seconds.
 29038	Shadow Step	400100	icon_skills.instantleap_tex	Energetic Shadow Step	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
-29039	Shadow Step	400100	icon_skills.instantleap_tex	Fleetfooted Shadow Step	icon_crest.e_crestactivespeedup_tex	Increase movement speed by 50 during combat for 2 seconds when skill is used.
+29039	Shadow Step	400100	icon_skills.instantleap_tex	Fleetfooted Shadow Step	icon_crest.e_crestactivespeedup_tex	Increases combat Movement Speed by 50 for 2 seconds.
+29046	Smite	90100	icon_skills.chainstrike_tex	Energetic Smite	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+29047	Whipsaw	80100	icon_skills.chainblade_tex	Empowered Whipsaw	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+29048	Death Spiral	60100	icon_skills.chainbrandish_tex	Powerlinked Death Spiral	icon_crest.e_crestnextskillattackup_tex	Increases damage of Grim Strike by 20% for a few seconds.
+29049	Shadow Burst	120100	icon_skills.darkexplosion_tex	Brilliant Shadow Burst	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 150.
+29050	Grim Strike	50100	icon_skills.chainsuperblow_tex	Keen Grim Strike	icon_crest.e_crestpassivecriticalup_tex	Doubles Crit Factor.
+29051	Shrouded Escape	180100	icon_skills.hideindarkness_tex	Energetic Shrouded Escape	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+29052	Shrouded Escape	180100	icon_skills.hideindarkness_tex	Lingering Shrouded Escape	icon_crest.e_crestpassivedurationup_tex	Increases effect duration by 50%.
+30000	Blast	10100	icon_skills.cannonshot_tex	Empowered Blast	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%
+30001	Blast	10100	icon_skills.cannonshot_tex	Affirmative Blast	icon_crest.e_crestpassivempdown_tex	Gain 5 Willpower on each hit.
+30002	Blast	10100	icon_skills.cannonshot_tex	Swift Blast	icon_crest.e_crestactiveattackspeedup_tex	15% chance to increase Attack Speed by 15% for 10 seconds.
+30003	Bombardment	20100	icon_skills.mortarshot_tex	Carving Bombardment	icon_crest.e_crestpassivecriticalup_tex	Increases the chance to crit by 50%.
+30004	Bombardment	20100	icon_skills.mortarshot_tex	Swift Bombardment	icon_crest.e_crestpassiveskillspeedup_tex	Increases casting speed by 25%
+30005	Scattershot	30100	icon_skills.buckshot_tex	Empowered Scattershot	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+30006	Point Blank	40100	icon_skills.gunbrandish_tex	Influential Point Blank	icon_crest.e_crestpassivecooltimedown_tex	20% chance to eliminate cooldown for Arc Bomb.
+30007	Scattershot	30100	icon_skills.buckshot_tex	Slick Scattershot	icon_crest.e_crestpassivepenaltydelete_tex	Reduces recoil by 40%.
+30008	Scattershot	30100	icon_skills.buckshot_tex	Brilliant Scattershot	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 50.
+30009	Point Blank	40100	icon_skills.gunbrandish_tex	Empowered Point Blank	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+30010	Point Blank	40100	icon_skills.gunbrandish_tex	Restorative Point Blank	icon_crest.e_crestpassivehpheal_tex	Recovers 2% of total HP on each hit.
+30011	Point Blank	40100	icon_skills.gunbrandish_tex	Energetic Point Blank	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+30012	Burst Fire	50100	icon_skills.gatlingshot_tex	Restorative Burst Fire	icon_crest.e_crestpassivehpheal_tex	Recovers 1% of total HP on each hit.
+30013	Burst Fire	50100	icon_skills.gatlingshot_tex	Longshot Burst Fire	icon_crest.e_crestpassiverangeup_tex	Increases range by 5 meters.
+30014	Time Bomb	60100	icon_skills.timebombshot_tex	Empowered Time Bomb	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+30015	Time Bomb	60100	icon_skills.timebombshot_tex	Affirmative Time Bomb	icon_crest.e_crestpassivempdown_tex	Gain 15 Willpower on a successful hit.
+30016	Arcane Barrage	70100	icon_skills.arcaneshockshot01_tex	Empowered Arcane Barrage	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+30017	Arcane Barrage	70100	icon_skills.arcaneshockshot01_tex	Swift Arcane Barrage	icon_crest.e_crestactiveinvokeskill_tex	Increases Attack Speed by 30% until Arcane Barrage detonates.
+30018	Arcane Barrage	70100	icon_skills.arcaneshockshot01_tex	Affirmative Arcane Barrage	icon_crest.e_crestpassivempdown_tex	Gain an additional 15 Willpower on each hit.
+30019	Mana Missiles	90100	icon_skills.aimedshot_tex	Carving Mana Missiles	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
+30021	Arc Bomb	100100	icon_skills.arcanegrenadethrow_tex	Empowered Arc Bomb	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+30022	Arc Bomb	100100	icon_skills.arcanegrenadethrow_tex	Lingering Arc Bomb 	icon_crest.e_crestpassivedurationup_tex	Increases stun duration by 50%.
+30023	Arc Bomb	100100	icon_skills.arcanegrenadethrow_tex	Brilliant Arc Bomb	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 50.
+30024	Rocket Jump	110100	icon_skills.rocketjump_tex	Energetic Rocket Jump	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+30028	Balder's Vengeance	130100	icon_skills.flashcannon_tex	Energetic Vengeance	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+30029	Rocket Jump	110100	icon_skills.rocketjump_tex	Fleetfooted Rocket Jump	icon_crest.e_crestactivespeedup_tex	Increases Movement Speed by 50% for 5 seconds.
+30030	Replenishment	150100	icon_skills.reload_tex	Energetic Replenishment	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+30031	Replenishment	150100	icon_skills.reload_tex	Affirmative Replenishment	icon_crest.e_crestpassivempdown_tex	Gains additional 50 Willpower when the skill is used.
+30032	ST	190100	icon_skills.summonsentrytower_tex	Energetic Turret	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
+30033	HB	180100	icon_skills.summondispenser_tex	Empowered Companion	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 100%.
+30034	ST	190100	icon_skills.summonsentrytower_tex	Empowered Turret	icon_crest.e_crestpassiveattackup_tex	Increases an ST's attack power by 20%.
+30035	ST	190100	icon_skills.summonsentrytower_tex	Lingering Turret	icon_crest.e_crestpassivedurationup_tex	Increases an ST's duration by 30%.
+30036	ST	190100	icon_skills.summonsentrytower_tex	Brilliant Turret	icon_crest.e_crestpassivempdown_tex	Reduces MP cost by 100.
+30037	Retaliate	200100	icon_skills.risingrocket_tex	Empowered Retaliate	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+30038	Retaliate	200100	icon_skills.risingrocket_tex	Energetic Retaliate	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+30039	Command: Recall	210100	icon_skills.command_counterflow_tex	Energetic Recall	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+30040	Command: Self-Destruct	220100	icon_skills.command_selfdestruct_tex	Energetic Self-Destruct	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+30041	Rolling Reload	400100	icon_skills.ambushrolling_tex	Energetic Rolling Reload	icon_crest.e_crestactivecooltimereset_tex	35% chance to eliminate cooldown.
+30042	Rolling Reload	400100	icon_skills.ambushrolling_tex	Powerlinked Rolling Reload	icon_crest.e_crestnextskillattackup_tex	Increases skill damage of Scattershot by 20% for a few seconds.
+30043	Bombardment	20100	icon_skills.mortarshot_tex	Carving Bombardment	icon_crest.e_crestpassivecriticalup_tex	Doubles the chance to crit.
+30044	Scattershot	30100	icon_skills.buckshot_tex	Empowered Scattershot	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+30045	Point Blank	40100	icon_skills.gunbrandish_tex	Empowered Point Blank	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+30046	Burst Fire	50100	icon_skills.gatlingshot_tex	Affirmative Burst Fire	icon_crest.e_crestpassivempdown_tex	Reduces Willpower cost by 10.
+30047	Burst Fire	50100	icon_skills.gatlingshot_tex	Longshot Burst Fire	icon_crest.e_crestpassiverangeup_tex	Increases range by 5 meters.
+30048	Arcane Barrage	70100	icon_skills.arcaneshockshot01_tex	Empowered Arcane Barrage	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+30049	Arcane Barrage	70100	icon_skills.arcaneshockshot01_tex	Swift Arcane Barrage	icon_crest.e_crestactiveinvokeskill_tex	Increases Attack Speed by 30% until Arcane Barrage detonates.
+30050	Mana Missiles	90100	icon_skills.aimedshot_tex	Carving Mana Missiles	icon_crest.e_crestpassivecriticalup_tex	Triples the chance to crit.
+30051	Arc Bomb	100100	icon_skills.arcanegrenadethrow_tex	Empowered Arc Bomb	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 25%.
+30052	Rocket Jump	110100	icon_skills.rocketjump_tex	Energetic Rocket Jump	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+30055	Balder's Vengeance	130100	icon_skills.flashcannon_tex	Energetic Vengeance	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+30056	Replenishment	150100	icon_skills.reload_tex	Energetic Replenishment	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 25%.
+30057	ST	190100	icon_skills.summonsentrytower_tex	Energetic Turret	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 15%.
+30058	Balder's Vengeance	130100	icon_skills.flashcannon_tex	Empowered Vengeance	icon_crest.e_crestpassiveattackup_tex	Increases skill damage by 20%.
+30059	Rolling Reload	400100	icon_skills.ambushrolling_tex	Energetic Rolling Reload	icon_crest.e_crestactivecooltimereset_tex	45% chance to eliminate cooldown.
+30060	Command: Recall	210100	icon_skills.command_counterflow_tex	Energetic Recall	icon_crest.e_crestpassivecooltimedown_tex	Decreases cooldown by 20%.
+30068	Wallop	250100	icon_skills.overhelm_tex	Keen Wallop	icon_crest.e_crestpassivecriticalup_tex	Doubles chance to crit against monsters.
+260910	Thunderbolt	260100	icon_skills.thunderdrake_tex	Keen Thunderbolt	icon_crest.e_crestpassivecriticalup_tex	Triples the chance to crit against monsters.
